@@ -1,28 +1,12 @@
-import csv
+import pandas as pd
 import re
 
-entrada = "sismos.csv"
-salida = "bdd.csv"
+# Leer CSV
+df = pd.read_csv("sismos.csv", encoding="utf-8")
 
-with open(entrada, newline='', encoding="utf-8") as fin, \
-     open(salida, "w", newline='', encoding="utf-8") as fout:
-    reader = csv.DictReader(fin)
-    fieldnames = reader.fieldnames
-    writer = csv.DictWriter(fout, fieldnames=fieldnames)
-    writer.writeheader()
+df[['latitud', 'longitud']] = df.apply(lambda row: ((row['latitud'], row['longitud']) if row['longitud'] not in [None, ""] else(float(m.group(1)), float(m.group(2))) if (m := re.match(r"^\s*([+-]?\d+\.\d+)[\s\-]+([+-]?\d+\.\d+)\s*$", row['latitud'])) else(float(row['latitud'][0] + row['latitud'][1:].split("-",1)[0]),-float(row['latitud'][1:].split("-",1)[1])) if "-" in row['latitud'][1:] else(row['latitud'], row['longitud'])),axis=1,result_type='expand')
 
-    for row in reader:
-        latlong = row["latitud"]
-        match = re.match(r"^\s*([+-]?\d+\.\d+)[\s\-]+([+-]?\d+\.\d+)\s*$", latlong)
-        if not row["longitud"] and match:
-            row["latitud"] = match.group(1)
-            row["longitud"] = match.group(2)
-        elif not row["longitud"] and "-" in latlong:
-            parts = latlong[1:].split("-", 1)
-            if len(parts) == 2:
-                row["latitud"] = latlong[0] + parts[0]
-                row["longitud"] = "-" + parts[1]
-        writer.writerow(row)
+# Guardar CSV limpio
+df.to_csv("bdd.csv", index=False, encoding="utf-8")
 
-print("Archivo corregido guardado como:", salida)
-
+print("Archivo corregido guardado como: bdd.csv")

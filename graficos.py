@@ -63,5 +63,3 @@ plt.figure(figsize=(15, 6))
 sns.boxplot(data=df, x='region', y='magnitud')
 plt.title('Distribución de Magnitudes por Región')
 plt.show()
-
-print("Gráficos generados y guardados como archivos PNG")

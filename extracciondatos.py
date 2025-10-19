@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import csv
 import time
-
-ARCHIVO_SISMOS = "sismos.csv"
+import pandas as pd
 
 hoy = datetime.today()
 fecha_inicio = hoy - timedelta(days=7)
@@ -52,10 +51,6 @@ for i in range(7):
         })
     time.sleep(1)
 
-with open(ARCHIVO_SISMOS, "w", newline="", encoding="utf-8") as f:
-    escritor = csv.DictWriter(f, fieldnames=["fecha_local", "fecha_utc", "latitud", "longitud", "profundidad", "magnitud"])
-    escritor.writeheader()
-    escritor.writerows(todos_sismos)
-
-print(f"Se extrajeron {len(todos_sismos)} sismos en total.")
-print(f"Guardado en: {ARCHIVO_SISMOS}")
+df_sismos = pd.DataFrame(todos_sismos)
+df_sismos.to_csv("sismos.csv", index=False, encoding="utf-8")
+print(f"Guardado en: sismos.csv")

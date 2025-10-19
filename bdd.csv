@@ -1,623 +1,161 @@
-fecha_local,fecha_utc,latitud,longitud,profundidad,magnitud,region,maps_link,rango_profundidad
-2025-10-11 12:42:4550 km al O de Mina La Escondida,2025-10-11 15:42:45,-24.227,-69.551,101.0,2.7,Antofagasta,"https://www.google.com/maps?q=-24.227,-69.551",100–200 km
-2025-10-11 09:12:2936 km al O de OllagÃ¼e,2025-10-11 12:12:29,-21.214,-68.603,120.0,2.9,Tarapacá,"https://www.google.com/maps?q=-21.214,-68.603",100–200 km
-2025-10-11 07:28:3973 km al O de Caleta Tortel,2025-10-11 10:28:39,-47.576,-74.457,32.0,2.8,Aysén del General Carlos Ibáñez del Campo,"https://www.google.com/maps?q=-47.576,-74.457",30–60 km
-2025-10-11 07:20:2155 km al SO de Mina Collahuasi,2025-10-11 10:20:21,-21.182,-69.023,114.0,3.2,Tarapacá,"https://www.google.com/maps?q=-21.182,-69.023",100–200 km
-2025-10-11 07:11:1232 km al O de San Pedro de Atacama,2025-10-11 10:11:12,-23.012,-68.495,94.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.012,-68.495",60–100 km
-2025-10-11 06:01:2718 km al O de Calama,2025-10-11 09:01:27,-22.514,-69.094,107.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.514,-69.094",100–200 km
-2025-10-11 05:42:5525 km al NO de Ovalle,2025-10-11 08:42:55,-30.47,-71.41,83.0,2.9,Coquimbo,"https://www.google.com/maps?q=-30.47,-71.41",60–100 km
-2025-10-11 05:32:0184 km al N de San Pedro de Atacama,2025-10-11 08:32:01,-22.175,-68.074,208.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.175,-68.074",200–500 km
-2025-10-11 03:44:5257 km al SE de Socaire,2025-10-11 06:44:52,-24.053,-67.643,259.0,2.9,Antofagasta,"https://www.google.com/maps?q=-24.053,-67.643",200–500 km
-2025-10-11 01:46:4945 km al NE de San Pedro de Atacama,2025-10-11 04:46:49,-22.641,-67.877,223.0,2.8,Antofagasta,"https://www.google.com/maps?q=-22.641,-67.877",200–500 km
-2025-10-10 22:20:5347 km al E de Paposo,2025-10-11 01:20:53,-25.01,-70.001,66.0,2.5,Antofagasta,"https://www.google.com/maps?q=-25.01,-70.001",60–100 km
-2025-10-10 22:11:0764 km al NE de Mina Los Pelambres,2025-10-11 01:11:07,-31.519,-70.016,146.0,3.6,Coquimbo,"https://www.google.com/maps?q=-31.519,-70.016",100–200 km
-2025-10-10 21:56:5956 km al SO de OllagÃ¼e,2025-10-11 00:56:59,-21.679,-68.494,126.0,2.7,Antofagasta,"https://www.google.com/maps?q=-21.679,-68.494",100–200 km
-2025-10-10 20:42:1661 km al N de Calama,2025-10-10 23:42:16,-21.932,-68.795,104.0,3.8,Antofagasta,"https://www.google.com/maps?q=-21.932,-68.795",100–200 km
-2025-10-10 19:37:1128 km al NO de El Tabo,2025-10-10 22:37:11,-33.326,-71.923,28.0,2.8,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.326,-71.923",10–30 km
-2025-10-10 15:53:5861 km al NE de Calama,2025-10-10 18:53:58,-22.06,-68.537,125.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.06,-68.537",100–200 km
-2025-10-10 15:37:0157 km al SO de OllagÃ¼e,2025-10-10 18:37:01,-21.668,-68.529,128.0,2.6,Antofagasta,"https://www.google.com/maps?q=-21.668,-68.529",100–200 km
-2025-10-10 13:15:3620 km al O de VichuquÃ©n,2025-10-10 16:15:36,-34.958,-72.196,30.0,2.7,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.958,-72.196",10–30 km
-2025-10-10 11:18:3520 km al NO de Victoria,2025-10-10 14:18:35,-38.085,-72.451,42.0,2.8,La Araucanía,"https://www.google.com/maps?q=-38.085,-72.451",30–60 km
-2025-10-10 10:59:2226 km al S de San Fernando,2025-10-10 13:59:22,-34.814,-70.92,93.0,2.6,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.814,-70.92",60–100 km
-2025-10-10 10:40:518 km al SO de Calama,2025-10-10 13:40:51,-22.511,-68.996,118.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.511,-68.996",100–200 km
-2025-10-10 09:31:4327 km al NO de Tocopilla,2025-10-10 12:31:43,-21.901,-70.358,15.0,2.8,Antofagasta,"https://www.google.com/maps?q=-21.901,-70.358",10–30 km
-2025-10-10 07:25:3995 km al N de San Pedro de Atacama,2025-10-10 10:25:39,-22.106,-67.932,216.0,2.6,Antofagasta,"https://www.google.com/maps?q=-22.106,-67.932",200–500 km
-2025-10-10 07:07:4760 km al SE de Socaire,2025-10-10 10:07:47,-23.954,-67.454,246.0,3.1,Antofagasta,"https://www.google.com/maps?q=-23.954,-67.454",200–500 km
-2025-10-10 04:40:5480 km al S de Socaire,2025-10-10 07:40:54,-24.272,-67.652,205.0,3.3,Antofagasta,"https://www.google.com/maps?q=-24.272,-67.652",200–500 km
-2025-10-10 04:35:1184 km al NE de Socaire,2025-10-10 07:35:11,-23.276,-67.138,244.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.276,-67.138",200–500 km
-2025-10-10 03:14:2223 km al NO de Navidad,2025-10-10 06:14:22,-33.8,-72.005,22.0,2.6,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.8,-72.005",10–30 km
-2025-10-10 00:14:0570 km al SE de Socaire,2025-10-10 03:14:05,-24.031,-67.404,224.0,2.6,Antofagasta,"https://www.google.com/maps?q=-24.031,-67.404",200–500 km
-2025-10-09 19:09:2929 km al S de Mina Collahuasi,2025-10-09 22:09:29,-21.085,-68.66,109.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.085,-68.66",100–200 km
-2025-10-09 18:54:1925 km al NO de ValparaÃ­so,2025-10-09 21:54:19,-32.882,-71.803,39.0,3.4,Valparaíso,"https://www.google.com/maps?q=-32.882,-71.803",30–60 km
-2025-10-09 17:50:0460 km al SO de Arica,2025-10-09 20:50:04,-18.741,-70.817,26.0,3.2,Arica y Parinacota,"https://www.google.com/maps?q=-18.741,-70.817",10–30 km
-2025-10-09 17:48:3033 km al SO de OllagÃ¼e,2025-10-09 20:48:30,-21.481,-68.405,132.0,3.1,Antofagasta,"https://www.google.com/maps?q=-21.481,-68.405",100–200 km
-2025-10-09 17:27:2840 km al SE de Pica,2025-10-09 20:27:28,-20.814,-69.166,107.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.814,-69.166",100–200 km
-2025-10-09 17:08:3255 km al N de Mina La Escondida,2025-10-09 20:08:32,-23.776,-69.073,105.0,2.9,Antofagasta,"https://www.google.com/maps?q=-23.776,-69.073",100–200 km
-2025-10-09 15:49:53102 km al NE de Socaire,2025-10-09 18:49:53,-23.059,-67.073,246.0,2.7,Antofagasta,"https://www.google.com/maps?q=-23.059,-67.073",200–500 km
-2025-10-09 14:33:3123 km al SE de CamiÃ±a,2025-10-09 17:33:31,-19.489,-69.31,100.0,3.1,Tarapacá,"https://www.google.com/maps?q=-19.489,-69.31",60–100 km
-2025-10-09 13:46:2579 km al SE de Socaire,2025-10-09 16:46:25,-24.081,-67.331,231.0,3.0,Antofagasta,"https://www.google.com/maps?q=-24.081,-67.331",200–500 km
-2025-10-09 13:27:2527 km al SE de CombarbalÃ¡,2025-10-09 16:27:25,-31.318,-70.776,99.0,3.0,Coquimbo,"https://www.google.com/maps?q=-31.318,-70.776",60–100 km
-2025-10-09 09:23:4740 km al NO de Cobquecura,2025-10-09 12:23:47,-35.929,-73.156,31.0,2.5,Maule,"https://www.google.com/maps?q=-35.929,-73.156",30–60 km
-2025-10-09 09:08:5128 km al NE de MarÃ­a Elena,2025-10-09 12:08:51,-22.119,-69.538,74.0,2.7,Antofagasta,"https://www.google.com/maps?q=-22.119,-69.538",60–100 km
-2025-10-09 03:17:5929 km al S de Punitaqui,2025-10-09 06:17:59,-31.08,-71.345,70.0,2.5,Coquimbo,"https://www.google.com/maps?q=-31.08,-71.345",60–100 km
-2025-10-09 02:53:0344 km al S de Socaire,2025-10-09 05:53:03,-23.98,-67.829,241.0,3.0,Antofagasta,"https://www.google.com/maps?q=-23.98,-67.829",200–500 km
-2025-10-08 19:44:4941 km al N de Calama,2025-10-08 22:44:49,-22.11,-68.828,117.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.11,-68.828",100–200 km
-2025-10-08 18:31:2216 km al E de Pichidangui,2025-10-08 21:31:22,-32.102,-71.369,40.0,2.7,Valparaíso,"https://www.google.com/maps?q=-32.102,-71.369",30–60 km
-2025-10-08 17:42:0374 km al S de Socaire,2025-10-08 20:42:03,-24.254,-67.861,222.0,2.9,Antofagasta,"https://www.google.com/maps?q=-24.254,-67.861",200–500 km
-2025-10-08 16:43:5932 km al E de Pica,2025-10-08 19:43:59,-20.415,-69.034,111.0,3.3,Tarapacá,"https://www.google.com/maps?q=-20.415,-69.034",100–200 km
-2025-10-08 16:43:3851 km al SO de Mina Collahuasi,2025-10-08 19:43:38,-21.232,-68.879,115.0,2.7,Tarapacá,"https://www.google.com/maps?q=-21.232,-68.879",100–200 km
-2025-10-08 14:22:5165 km al SE de Socaire,2025-10-08 17:22:51,-24.133,-67.647,206.0,4.3,Antofagasta,"https://www.google.com/maps?q=-24.133,-67.647",200–500 km
-2025-10-08 11:34:5235 km al NO de Cuya,2025-10-08 14:34:52,-18.892,-70.344,17.0,2.6,Arica y Parinacota,"https://www.google.com/maps?q=-18.892,-70.344",10–30 km
-2025-10-08 11:17:1649 km al S de Calama,2025-10-08 14:17:16,-22.898,-68.82,85.0,3.2,Antofagasta,"https://www.google.com/maps?q=-22.898,-68.82",60–100 km
-2025-10-08 09:45:2371 km al SO de OllagÃ¼e,2025-10-08 12:45:23,-21.815,-68.503,118.0,2.7,Antofagasta,"https://www.google.com/maps?q=-21.815,-68.503",100–200 km
-2025-10-08 09:07:3235 km al O de Mina Collahuasi,2025-10-08 12:07:32,-20.951,-68.969,103.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.951,-68.969",100–200 km
-2025-10-08 01:33:1030 km al S de Fresia,2025-10-08 04:33:10,-41.419,-73.367,47.0,3.7,Los Lagos,"https://www.google.com/maps?q=-41.419,-73.367",30–60 km
-2025-10-07 22:46:1331 km al O de Mina Collahuasi,2025-10-08 01:46:13,-20.905,-68.94,102.0,2.9,Tarapacá,"https://www.google.com/maps?q=-20.905,-68.94",100–200 km
-2025-10-07 22:08:2327 km al SO de Navidad,2025-10-08 01:08:23,-34.124,-72.044,38.0,2.7,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-34.124,-72.044",30–60 km
-2025-10-07 21:26:3123 km al NO de Quillagua,2025-10-08 00:26:31,-21.541,-69.719,15.0,2.8,Antofagasta,"https://www.google.com/maps?q=-21.541,-69.719",10–30 km
-2025-10-07 16:45:4987 km al S de El Salvador,2025-10-07 19:45:49,-27.006,-69.433,126.0,3.6,Atacama,"https://www.google.com/maps?q=-27.006,-69.433",100–200 km
-2025-10-07 16:21:5526 km al O de Pichidangui,2025-10-07 19:21:55,-32.118,-71.808,42.0,2.8,Valparaíso,"https://www.google.com/maps?q=-32.118,-71.808",30–60 km
-2025-10-07 14:33:3122 km al E de Pica,2025-10-07 17:33:31,-20.532,-69.123,110.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.532,-69.123",100–200 km
-2025-10-07 13:05:1161 km al SE de Socaire,2025-10-07 16:05:11,-23.983,-67.472,171.0,3.4,Antofagasta,"https://www.google.com/maps?q=-23.983,-67.472",100–200 km
-2025-10-07 11:40:3020 km al O de Pichidangui,2025-10-07 14:40:30,-32.101,-71.739,42.0,3.4,Valparaíso,"https://www.google.com/maps?q=-32.101,-71.739",30–60 km
-2025-10-07 11:06:2243 km al NE de OllagÃ¼e,2025-10-07 14:06:22,-20.992,-67.92,194.0,3.1,Tarapacá,"https://www.google.com/maps?q=-20.992,-67.92",100–200 km
-2025-10-07 11:02:5035 km al E de San JosÃ© de Maipo,2025-10-07 14:02:50,-33.755,-69.995,17.0,3.4,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.755,-69.995",10–30 km
-2025-10-07 10:59:267 km al NO de Pichidangui,2025-10-07 13:59:26,-32.106,-71.592,36.0,3.1,Valparaíso,"https://www.google.com/maps?q=-32.106,-71.592",30–60 km
-2025-10-07 10:47:0933 km al O de Pichidangui,2025-10-07 13:47:09,-32.106,-71.88,24.0,3.2,Valparaíso,"https://www.google.com/maps?q=-32.106,-71.88",10–30 km
-2025-10-07 10:35:078 km al O de Pichidangui,2025-10-07 13:35:07,-32.106,-71.608,30.0,3.5,Valparaíso,"https://www.google.com/maps?q=-32.106,-71.608",10–30 km
-2025-10-07 06:44:5623 km al NE de VichuquÃ©n,2025-10-07 09:44:56,-34.789,-71.765,45.0,2.9,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.789,-71.765",30–60 km
-2025-10-07 04:34:2543 km al SE de Pica,2025-10-07 07:34:25,-20.837,-69.151,103.0,3.2,Tarapacá,"https://www.google.com/maps?q=-20.837,-69.151",100–200 km
-2025-10-07 03:51:0973 km al SE de Socaire,2025-10-07 06:51:09,-24.194,-67.622,195.0,3.8,Antofagasta,"https://www.google.com/maps?q=-24.194,-67.622",100–200 km
-2025-10-07 03:26:2924 km al SE de OllagÃ¼e,2025-10-07 06:26:29,-21.32,-68.041,164.0,3.5,Antofagasta,"https://www.google.com/maps?q=-21.32,-68.041",100–200 km
-2025-10-07 03:12:098 km al N de Ancud,2025-10-07 06:12:09,-41.794,-73.814,36.0,3.1,Los Lagos,"https://www.google.com/maps?q=-41.794,-73.814",30–60 km
-2025-10-07 02:55:378 km al E de Parque Fray Jorge,2025-10-07 05:55:37,-30.684,-71.606,29.0,3.7,Coquimbo,"https://www.google.com/maps?q=-30.684,-71.606",10–30 km
-2025-10-07 00:59:4718 km al E de Farellones,2025-10-07 03:59:47,-33.337,-70.121,13.0,2.9,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.337,-70.121",10–30 km
-2025-10-06 23:54:1149 km al S de Mina Collahuasi,2025-10-07 02:54:11,-21.259,-68.765,119.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.259,-68.765",100–200 km
-2025-10-06 19:19:28189 km al O de Isla Guamblin,2025-10-06 22:19:28,-45.419,-77.357,9.0,3.5,Aysén del General Carlos Ibáñez del Campo,"https://www.google.com/maps?q=-45.419,-77.357",<10 km
-2025-10-06 19:07:0676 km al SO de OllagÃ¼e,2025-10-06 22:07:06,-21.718,-68.762,103.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.718,-68.762",100–200 km
-2025-10-06 17:51:2128 km al SO de Mina Collahuasi,2025-10-06 20:51:21,-20.955,-68.891,92.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.955,-68.891",60–100 km
-2025-10-06 17:29:1732 km al N de Victoria,2025-10-06 20:29:17,-37.945,-72.362,60.0,3.1,La Araucanía,"https://www.google.com/maps?q=-37.945,-72.362",30–60 km
-2025-10-06 16:34:1049 km al S de Socaire,2025-10-06 19:34:10,-24.03,-67.897,250.0,3.2,Antofagasta,"https://www.google.com/maps?q=-24.03,-67.897",200–500 km
-2025-10-06 15:22:5632 km al O de Mina Collahuasi,2025-10-06 18:22:56,-20.76,-68.958,15.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.76,-68.958",10–30 km
-2025-10-06 14:07:3626 km al SE de Mina Collahuasi,2025-10-06 17:07:36,-21.015,-68.505,126.0,3.7,Tarapacá,"https://www.google.com/maps?q=-21.015,-68.505",100–200 km
-2025-10-06 11:07:5416 km al E de Farellones,2025-10-06 14:07:54,-33.333,-70.137,7.0,3.4,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.333,-70.137",<10 km
-2025-10-06 10:57:5332 km al O de OllagÃ¼e,2025-10-06 13:57:53,-21.255,-68.564,126.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.255,-68.564",100–200 km
-2025-10-06 10:36:223 km al N de Parque Fray Jorge,2025-10-06 13:36:22,-30.639,-71.683,36.0,2.7,Coquimbo,"https://www.google.com/maps?q=-30.639,-71.683",30–60 km
-2025-10-06 09:12:3647 km al O de Pichilemu,2025-10-06 12:12:36,-34.469,-72.511,9.0,2.9,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.469,-72.511",<10 km
-2025-10-06 05:17:4913 km al NE de Canela Baja,2025-10-06 08:17:49,-31.298,-71.379,29.0,4.0,Coquimbo,"https://www.google.com/maps?q=-31.298,-71.379",10–30 km
-2025-10-06 05:12:0143 km al NE de Pica,2025-10-06 08:12:01,-20.146,-69.145,96.0,3.6,Tarapacá,"https://www.google.com/maps?q=-20.146,-69.145",60–100 km
-2025-10-06 03:18:0547 km al O de Pichilemu,2025-10-06 06:18:05,-34.424,-72.519,25.0,3.4,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.424,-72.519",10–30 km
-2025-10-06 00:36:2453 km al S de Mina Collahuasi,2025-10-06 03:36:24,-21.273,-68.829,114.0,3.3,Tarapacá,"https://www.google.com/maps?q=-21.273,-68.829",100–200 km
-2025-10-06 00:32:4314 km al SE de Pica,2025-10-06 03:32:43,-20.596,-69.26,84.0,3.5,Tarapacá,"https://www.google.com/maps?q=-20.596,-69.26",60–100 km
-2025-10-05 23:29:0055 km al O de ValparaÃ­so,2025-10-06 02:29:00,-32.955,-72.189,28.0,2.9,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-32.955,-72.189",10–30 km
-2025-10-05 19:42:5619 km al E de Farellones,2025-10-05 22:42:56,-33.323,-70.106,14.0,3.9,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.323,-70.106",10–30 km
-2025-10-05 19:15:3660 km al SO de OllagÃ¼e,2025-10-05 22:15:36,-21.682,-68.554,128.0,3.0,Antofagasta,"https://www.google.com/maps?q=-21.682,-68.554",100–200 km
-2025-10-05 18:04:4680 km al S de Socaire,2025-10-05 21:04:46,-24.291,-68.049,250.0,3.4,Antofagasta,"https://www.google.com/maps?q=-24.291,-68.049",200–500 km
-2025-10-05 16:13:2444 km al SO de OllagÃ¼e,2025-10-05 19:13:24,-21.571,-68.454,132.0,2.7,Antofagasta,"https://www.google.com/maps?q=-21.571,-68.454",100–200 km
-2025-10-05 15:22:2348 km al O de San Antonio de los Cobres,2025-10-05 18:22:23,-24.293,-66.788,169.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.293,-66.788",100–200 km
-2025-10-05 14:04:4958 km al SO de OllagÃ¼e,2025-10-05 17:04:49,-21.679,-68.519,126.0,3.6,Antofagasta,"https://www.google.com/maps?q=-21.679,-68.519",100–200 km
-2025-10-05 13:59:2549 km al SE de San JosÃ© de Maipo,2025-10-05 16:59:25,-34.025,-70.102,19.0,3.5,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-34.025,-70.102",10–30 km
-2025-10-05 11:20:5860 km al S de Socaire,2025-10-05 14:20:58,-24.109,-67.734,260.0,3.3,Antofagasta,"https://www.google.com/maps?q=-24.109,-67.734",200–500 km
-2025-10-05 11:14:0619 km al SE de CuricÃ³,2025-10-05 14:14:06,-35.141,-71.144,94.0,2.8,Maule,"https://www.google.com/maps?q=-35.141,-71.144",60–100 km
-2025-10-05 10:36:0237 km al S de Pica,2025-10-05 13:36:02,-20.81,-69.223,107.0,2.7,Tarapacá,"https://www.google.com/maps?q=-20.81,-69.223",100–200 km
-2025-10-05 09:39:3610 km al SO de Tocopilla,2025-10-05 12:39:36,-22.169,-70.256,44.0,2.7,Antofagasta,"https://www.google.com/maps?q=-22.169,-70.256",30–60 km
-2025-10-05 08:36:3723 km al S de San Pedro de Atacama,2025-10-05 11:36:37,-23.124,-68.181,168.0,2.9,Antofagasta,"https://www.google.com/maps?q=-23.124,-68.181",100–200 km
-2025-10-05 06:58:3751 km al E de OllagÃ¼e,2025-10-05 09:58:37,-21.227,-67.762,214.0,2.9,Tarapacá,"https://www.google.com/maps?q=-21.227,-67.762",200–500 km
-2025-10-05 06:11:5341 km al S de OllagÃ¼e,2025-10-05 09:11:53,-21.591,-68.32,138.0,3.2,Antofagasta,"https://www.google.com/maps?q=-21.591,-68.32",100–200 km
-2025-10-05 05:46:4876 km al S de Socaire,2025-10-05 08:46:48,-24.272,-67.942,247.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.272,-67.942",200–500 km
-2025-10-05 04:08:2587 km al S de Ilo,2025-10-05 07:08:25,-18.423,-71.405,19.0,2.5,Arica y Parinacota,"https://www.google.com/maps?q=-18.423,-71.405",10–30 km
-2025-10-05 03:14:26104 km al O de El Calafate,2025-10-05 06:14:26,-50.305,-73.722,38.0,3.6,Magallanes y de la Antártica Chilena,"https://www.google.com/maps?q=-50.305,-73.722",30–60 km
-2025-10-05 02:06:3067 km al SE de Socaire,2025-10-05 05:06:30,-23.945,-67.355,282.0,3.7,Antofagasta,"https://www.google.com/maps?q=-23.945,-67.355",200–500 km
-2025-10-05 01:05:0815 km al SO de Tongoy,2025-10-05 04:05:08,-30.354,-71.603,27.0,2.6,Coquimbo,"https://www.google.com/maps?q=-30.354,-71.603",10–30 km
-2025-10-04 22:14:2339 km al SO de San Pedro de Atacama,2025-10-05 01:14:23,-23.227,-68.391,153.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.227,-68.391",100–200 km
-2025-10-04 20:51:5532 km al NE de Calama,2025-10-04 23:51:55,-22.24,-68.746,113.0,3.0,Antofagasta,"https://www.google.com/maps?q=-22.24,-68.746",100–200 km
-2025-10-04 20:06:1877 km al SO de Socaire,2025-10-04 23:06:18,-24.235,-68.174,256.0,3.1,Antofagasta,"https://www.google.com/maps?q=-24.235,-68.174",200–500 km
-2025-10-04 18:57:1430 km al SO de Pichidangui,2025-10-04 21:57:14,-32.335,-71.738,22.0,2.6,Valparaíso,"https://www.google.com/maps?q=-32.335,-71.738",10–30 km
-2025-10-04 18:35:2856 km al S de Socaire,2025-10-04 21:35:28,-24.076,-68.031,251.0,3.6,Antofagasta,"https://www.google.com/maps?q=-24.076,-68.031",200–500 km
-2025-10-04 18:10:4732 km al O de OllagÃ¼e,2025-10-04 21:10:47,-21.162,-68.555,132.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.162,-68.555",100–200 km
-2025-10-04 18:10:3048 km al E de Puerto Cisnes,2025-10-04 21:10:30,-44.611,-72.091,6.0,2.7,Aysén del General Carlos Ibáñez del Campo,"https://www.google.com/maps?q=-44.611,-72.091",<10 km
-2025-10-04 17:40:3631 km al E de RÃ­o Puelo,2025-10-04 20:40:36,-41.746,-71.94,7.0,2.7,Los Lagos,"https://www.google.com/maps?q=-41.746,-71.94",<10 km
-2025-10-04 17:35:30118 km al E de Paihuano,2025-10-04 20:35:30,-30.304,-69.328,141.0,4.0,Coquimbo,"https://www.google.com/maps?q=-30.304,-69.328",100–200 km
-2025-10-04 17:34:3564 km al NE de Calama,2025-10-04 20:34:35,-21.965,-68.634,114.0,2.9,Antofagasta,"https://www.google.com/maps?q=-21.965,-68.634",100–200 km
-2025-10-04 17:27:2411 km al E de Paposo,2025-10-04 20:27:24,-25.039,-70.364,46.0,4.6,Antofagasta,"https://www.google.com/maps?q=-25.039,-70.364",30–60 km
-2025-10-04 17:04:1120 km al O de Andacollo,2025-10-04 20:04:11,-30.261,-71.285,56.0,2.8,Coquimbo,"https://www.google.com/maps?q=-30.261,-71.285",30–60 km
-2025-10-04 15:01:31110 km al NE de Socaire,2025-10-04 18:01:31,-23.015,-67.014,268.0,2.9,Antofagasta,"https://www.google.com/maps?q=-23.015,-67.014",200–500 km
-2025-10-04 14:28:3858 km al NE de Pica,2025-10-04 17:28:38,-20.082,-68.978,112.0,3.0,Tarapacá,"https://www.google.com/maps?q=-20.082,-68.978",100–200 km
-2025-10-04 12:49:2246 km al NE de OllagÃ¼e,2025-10-04 15:49:22,-20.913,-67.956,190.0,3.2,Tarapacá,"https://www.google.com/maps?q=-20.913,-67.956",100–200 km
-2025-10-04 09:49:5575 km al E de Baquedano,2025-10-04 12:49:55,-23.563,-69.152,126.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.563,-69.152",100–200 km
-2025-10-04 09:31:3526 km al E de ToltÃ©n,2025-10-04 12:31:35,-39.262,-72.886,37.0,2.8,La Araucanía,"https://www.google.com/maps?q=-39.262,-72.886",30–60 km
-2025-10-04 09:23:3493 km al SE de Socaire,2025-10-04 12:23:34,-24.34,-67.483,201.0,3.6,Antofagasta,"https://www.google.com/maps?q=-24.34,-67.483",200–500 km
-2025-10-04 08:37:4372 km al NE de Calama,2025-10-04 11:37:43,-21.907,-68.579,120.0,4.0,Antofagasta,"https://www.google.com/maps?q=-21.907,-68.579",100–200 km
-2025-10-04 06:34:479 km al NE de Parque Fray Jorge,2025-10-04 09:34:47,-30.604,-71.622,30.0,3.7,Coquimbo,"https://www.google.com/maps?q=-30.604,-71.622",10–30 km
-2025-10-04 05:26:0639 km al NE de Calama,2025-10-04 08:26:06,-22.205,-68.684,127.0,3.5,Antofagasta,"https://www.google.com/maps?q=-22.205,-68.684",100–200 km
-2025-10-04 05:22:2298 km al NO de Cochrane,2025-10-04 08:22:22,-46.482,-73.19,10.0,2.6,Aysén del General Carlos Ibáñez del Campo,"https://www.google.com/maps?q=-46.482,-73.19",<10 km
-2025-10-04 05:14:0843 km al E de Los Andes,2025-10-04 08:14:08,-32.818,-70.14,130.0,2.8,Valparaíso,"https://www.google.com/maps?q=-32.818,-70.14",100–200 km
-2025-10-04 04:22:0260 km al N de Calama,2025-10-04 07:22:02,-21.933,-68.905,106.0,3.0,Antofagasta,"https://www.google.com/maps?q=-21.933,-68.905",100–200 km
-2025-10-04 04:14:0569 km al SO de OllagÃ¼e,2025-10-04 07:14:05,-21.793,-68.521,123.0,3.9,Antofagasta,"https://www.google.com/maps?q=-21.793,-68.521",100–200 km
-2025-10-04 01:52:5728 km al O de Mina Collahuasi,2025-10-04 04:52:57,-20.853,-68.924,107.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.853,-68.924",100–200 km
-2025-10-04 01:46:3161 km al S de OllagÃ¼e,2025-10-04 04:46:31,-21.74,-68.443,139.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.74,-68.443",100–200 km
-2025-10-04 01:37:5249 km al N de Caleta Tortel,2025-10-04 04:37:52,-47.364,-73.481,43.0,2.7,Aysén del General Carlos Ibáñez del Campo,"https://www.google.com/maps?q=-47.364,-73.481",30–60 km
-2025-10-04 00:59:4239 km al SE de Linares,2025-10-04 03:59:42,-36.022,-71.229,101.0,2.7,Maule,"https://www.google.com/maps?q=-36.022,-71.229",100–200 km
-2025-10-04 00:35:0251 km al SE de Patache,2025-10-04 03:35:02,-21.236,-70.023,33.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.236,-70.023",30–60 km
-2025-10-04 00:23:2265 km al S de Socaire,2025-10-04 03:23:22,-24.173,-67.97,245.0,3.8,Antofagasta,"https://www.google.com/maps?q=-24.173,-67.97",200–500 km
-2025-10-04 00:19:1269 km al SE de Sierra Gorda,2025-10-04 03:19:12,-23.367,-68.892,108.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.367,-68.892",100–200 km
-2025-10-03 23:47:0267 km al SE de Socaire,2025-10-04 02:47:02,-24.109,-67.561,230.0,2.6,Antofagasta,"https://www.google.com/maps?q=-24.109,-67.561",200–500 km
-2025-10-03 22:35:5532 km al SE de Mina Collahuasi,2025-10-04 01:35:55,-21.089,-68.532,128.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.089,-68.532",100–200 km
-2025-10-03 22:09:0071 km al NE de Calama,2025-10-04 01:09:00,-21.927,-68.574,126.0,3.3,Antofagasta,"https://www.google.com/maps?q=-21.927,-68.574",100–200 km
-2025-10-03 21:28:3383 km al S de Socaire,2025-10-04 00:28:33,-24.337,-67.835,240.0,3.7,Antofagasta,"https://www.google.com/maps?q=-24.337,-67.835",200–500 km
-2025-10-03 21:11:2137 km al O de Arica,2025-10-04 00:11:21,-18.55,-70.665,37.0,2.6,Arica y Parinacota,"https://www.google.com/maps?q=-18.55,-70.665",30–60 km
-2025-10-03 20:27:0777 km al SE de Socaire,2025-10-03 23:27:07,-24.139,-67.421,207.0,2.6,Antofagasta,"https://www.google.com/maps?q=-24.139,-67.421",200–500 km
-2025-10-03 20:06:0665 km al SO de OllagÃ¼e,2025-10-03 23:06:06,-21.718,-68.598,117.0,2.7,Antofagasta,"https://www.google.com/maps?q=-21.718,-68.598",100–200 km
-2025-10-03 19:47:237 km al SE de Parque Fray Jorge,2025-10-03 22:47:23,-30.694,-71.621,25.0,2.5,Coquimbo,"https://www.google.com/maps?q=-30.694,-71.621",10–30 km
-2025-10-03 19:41:0157 km al S de Putre,2025-10-03 22:41:01,-18.698,-69.648,96.0,2.8,Arica y Parinacota,"https://www.google.com/maps?q=-18.698,-69.648",60–100 km
-2025-10-03 19:13:5262 km al SE de Socaire,2025-10-03 22:13:52,-24.089,-67.617,225.0,2.8,Antofagasta,"https://www.google.com/maps?q=-24.089,-67.617",200–500 km
-2025-10-03 19:07:14107 km al NO de Cobquecura,2025-10-03 22:07:14,-35.523,-73.706,26.0,3.5,Maule,"https://www.google.com/maps?q=-35.523,-73.706",10–30 km
-2025-10-03 16:34:4427 km al S de Calama,2025-10-03 19:34:44,-22.706,-68.862,92.0,3.0,Antofagasta,"https://www.google.com/maps?q=-22.706,-68.862",60–100 km
-2025-10-03 16:11:0847 km al S de Socaire,2025-10-03 19:11:08,-23.99,-67.732,290.0,3.5,Antofagasta,"https://www.google.com/maps?q=-23.99,-67.732",200–500 km
-2025-10-03 13:21:5335 km al E de Calama,2025-10-03 16:21:53,-22.596,-68.617,108.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.596,-68.617",100–200 km
-2025-10-03 12:40:2951 km al NE de San FabiÃ¡n,2025-10-03 15:40:29,-36.213,-71.168,132.0,3.3,Maule,"https://www.google.com/maps?q=-36.213,-71.168",100–200 km
-2025-10-03 10:52:0423 km al O de Ovalle,2025-10-03 13:52:04,-30.567,-71.437,20.0,3.1,Coquimbo,"https://www.google.com/maps?q=-30.567,-71.437",10–30 km
-2025-10-03 10:35:03103 km al NE de San Pedro de Atacama,2025-10-03 13:35:03,-22.121,-67.698,208.0,3.2,Antofagasta,"https://www.google.com/maps?q=-22.121,-67.698",200–500 km
-2025-10-03 08:47:42108 km al O de Tongoy,2025-10-03 11:47:42,-30.045,-72.595,36.0,2.5,Coquimbo,"https://www.google.com/maps?q=-30.045,-72.595",30–60 km
-2025-10-03 08:09:4725 km al SO de Pichilemu,2025-10-03 11:09:47,-34.49,-72.248,27.0,2.5,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.49,-72.248",10–30 km
-2025-10-03 07:01:3385 km al SE de Socaire,2025-10-03 10:01:33,-24.266,-67.5,219.0,3.1,Antofagasta,"https://www.google.com/maps?q=-24.266,-67.5",200–500 km
-2025-10-03 05:24:41196 km al O de TirÃºa,2025-10-03 08:24:41,-38.989,-75.592,4.0,3.6,La Araucanía,"https://www.google.com/maps?q=-38.989,-75.592",<10 km
-2025-10-03 03:39:1342 km al E de Putre,2025-10-03 06:39:13,-18.073,-69.185,167.0,2.7,Arica y Parinacota,"https://www.google.com/maps?q=-18.073,-69.185",100–200 km
-2025-10-03 03:15:4035 km al O de Mina Collahuasi,2025-10-03 06:15:40,-20.756,-68.986,103.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.756,-68.986",100–200 km
-2025-10-03 03:13:5039 km al O de OllagÃ¼e,2025-10-03 06:13:50,-21.196,-68.63,128.0,3.1,Tarapacá,"https://www.google.com/maps?q=-21.196,-68.63",100–200 km
-2025-10-03 02:18:5317 km al SO de Calama,2025-10-03 05:18:53,-22.605,-68.997,122.0,3.5,Antofagasta,"https://www.google.com/maps?q=-22.605,-68.997",100–200 km
-2025-10-03 01:27:01155 km al NE de Socaire,2025-10-03 04:27:01,-22.85,-66.609,254.0,3.0,Antofagasta,"https://www.google.com/maps?q=-22.85,-66.609",200–500 km
-2025-10-02 23:49:4430 km al NO de Pisagua,2025-10-03 02:49:44,-19.478,-70.475,23.0,2.8,Tarapacá,"https://www.google.com/maps?q=-19.478,-70.475",10–30 km
-2025-10-02 23:26:2015 km al SO de OllagÃ¼e,2025-10-03 02:26:20,-21.287,-68.382,137.0,2.9,Tarapacá,"https://www.google.com/maps?q=-21.287,-68.382",100–200 km
-2025-10-02 22:27:5641 km al NO de Calama,2025-10-03 01:27:56,-22.237,-69.236,100.0,2.9,Antofagasta,"https://www.google.com/maps?q=-22.237,-69.236",60–100 km
-2025-10-02 21:44:3193 km al NO de Cochrane,2025-10-03 00:44:31,-46.477,-73.039,5.0,2.5,Aysén del General Carlos Ibáñez del Campo,"https://www.google.com/maps?q=-46.477,-73.039",<10 km
-2025-10-02 21:27:4639 km al SO de OllagÃ¼e,2025-10-03 00:27:46,-21.536,-68.432,138.0,2.7,Antofagasta,"https://www.google.com/maps?q=-21.536,-68.432",100–200 km
-2025-10-02 17:37:4560 km al O de Socaire,2025-10-02 20:37:45,-23.509,-68.476,126.0,3.2,Antofagasta,"https://www.google.com/maps?q=-23.509,-68.476",100–200 km
-2025-10-02 17:26:478 km al S de Parque Fray Jorge,2025-10-02 20:26:47,-30.736,-71.687,29.0,2.5,Coquimbo,"https://www.google.com/maps?q=-30.736,-71.687",10–30 km
-2025-10-02 17:12:4110 km al NE de San Pedro de Atacama,2025-10-02 20:12:41,-22.85,-68.145,123.0,2.9,Antofagasta,"https://www.google.com/maps?q=-22.85,-68.145",100–200 km
-2025-10-02 16:26:502 km al NE de Parque Fray Jorge,2025-10-02 19:26:50,-30.647,-71.672,29.0,2.9,Coquimbo,"https://www.google.com/maps?q=-30.647,-71.672",10–30 km
-2025-10-02 16:07:4688 km al O de San Antonio de los Cobres,2025-10-02 19:07:46,-24.044,-67.162,212.0,2.5,Antofagasta,"https://www.google.com/maps?q=-24.044,-67.162",200–500 km
-2025-10-02 16:01:5543 km al NE de Calama,2025-10-02 19:01:55,-22.166,-68.674,117.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.166,-68.674",100–200 km
-2025-10-02 15:55:5039 km al E de Talca,2025-10-02 18:55:50,-35.498,-71.241,91.0,2.8,Maule,"https://www.google.com/maps?q=-35.498,-71.241",60–100 km
-2025-10-02 15:46:2464 km al SO de Mina Collahuasi,2025-10-02 18:46:24,-21.31,-68.99,110.0,4.2,Antofagasta,"https://www.google.com/maps?q=-21.31,-68.99",100–200 km
-2025-10-02 15:30:0671 km al NE de Calama,2025-10-02 18:30:06,-21.952,-68.533,114.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.952,-68.533",100–200 km
-2025-10-02 15:21:564 km al SO de Parque Fray Jorge,2025-10-02 18:21:56,-30.693,-71.707,28.0,2.8,Coquimbo,"https://www.google.com/maps?q=-30.693,-71.707",10–30 km
-2025-10-02 14:44:3381 km al SE de Socaire,2025-10-02 17:44:33,-24.058,-67.286,220.0,3.9,Antofagasta,"https://www.google.com/maps?q=-24.058,-67.286",200–500 km
-2025-10-02 13:33:2328 km al N de Pica,2025-10-02 16:33:23,-20.244,-69.287,90.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.244,-69.287",60–100 km
-2025-10-02 11:28:246 km al SO de Parque Fray Jorge,2025-10-02 14:28:24,-30.713,-71.714,29.0,3.4,Coquimbo,"https://www.google.com/maps?q=-30.713,-71.714",10–30 km
-2025-10-02 11:13:4853 km al SE de Socaire,2025-10-02 14:13:48,-23.835,-67.448,262.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.835,-67.448",200–500 km
-2025-10-02 09:39:4835 km al SE de Socaire,2025-10-02 12:39:48,-23.876,-67.756,290.0,2.8,Antofagasta,"https://www.google.com/maps?q=-23.876,-67.756",200–500 km
-2025-10-02 09:12:1563 km al SO de Mina Collahuasi,2025-10-02 12:12:15,-21.266,-69.036,89.0,3.1,Tarapacá,"https://www.google.com/maps?q=-21.266,-69.036",60–100 km
-2025-10-02 08:18:358 km al SE de Parque Fray Jorge,2025-10-02 11:18:35,-30.727,-71.646,27.0,2.9,Coquimbo,"https://www.google.com/maps?q=-30.727,-71.646",10–30 km
-2025-10-02 08:03:3011 km al SO de Parque Fray Jorge,2025-10-02 11:03:30,-30.753,-71.727,34.0,3.9,Coquimbo,"https://www.google.com/maps?q=-30.753,-71.727",30–60 km
-2025-10-02 08:02:166 km al SO de Parque Fray Jorge,2025-10-02 11:02:16,-30.709,-71.715,31.0,2.7,Coquimbo,"https://www.google.com/maps?q=-30.709,-71.715",30–60 km
-2025-10-02 07:43:5610 km al SO de Parque Fray Jorge,2025-10-02 10:43:56,-30.71,-71.77,31.0,5.5,Coquimbo,"https://www.google.com/maps?q=-30.71,-71.77",30–60 km
-2025-10-02 07:12:5756 km al N de Mejillones,2025-10-02 10:12:57,-22.594,-70.429,17.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.594,-70.429",10–30 km
-2025-10-02 06:47:01104 km al E de Monte Patria,2025-10-02 09:47:01,-30.892,-69.898,138.0,3.3,Coquimbo,"https://www.google.com/maps?q=-30.892,-69.898",100–200 km
-2025-10-02 06:28:3044 km al NO de Mina La Escondida,2025-10-02 09:28:30,-23.987,-69.355,80.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.987,-69.355",60–100 km
-2025-10-02 06:15:2920 km al NE de Petorca,2025-10-02 09:15:29,-32.096,-70.82,91.0,2.8,Valparaíso,"https://www.google.com/maps?q=-32.096,-70.82",60–100 km
-2025-10-02 05:25:0397 km al O de BahÃ­a Mansa,2025-10-02 08:25:03,-40.417,-74.853,16.0,3.0,La Araucanía,"https://www.google.com/maps?q=-40.417,-74.853",10–30 km
-2025-10-02 04:57:0819 km al O de Mina Collahuasi,2025-10-02 07:57:08,-20.86,-68.835,102.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.86,-68.835",100–200 km
-2025-10-02 01:13:5048 km al N de Calama,2025-10-02 04:13:50,-22.052,-68.814,111.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.052,-68.814",100–200 km
-2025-10-02 01:09:2827 km al NE de Termas del Flaco,2025-10-02 04:09:28,-34.744,-70.295,137.0,2.9,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.744,-70.295",100–200 km
-2025-10-02 00:53:0225 km al E de Pica,2025-10-02 03:53:02,-20.486,-69.087,95.0,2.8,Tarapacá,"https://www.google.com/maps?q=-20.486,-69.087",60–100 km
-2025-10-01 23:46:0178 km al SO de OllagÃ¼e,2025-10-02 02:46:01,-21.755,-68.748,130.0,3.0,Antofagasta,"https://www.google.com/maps?q=-21.755,-68.748",100–200 km
-2025-10-01 22:53:2757 km al S de Socaire,2025-10-02 01:53:27,-24.096,-67.965,294.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.096,-67.965",200–500 km
-2025-10-01 20:19:1328 km al NO de Baquedano,2025-10-01 23:19:13,-23.101,-69.946,55.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.101,-69.946",30–60 km
-2025-10-01 19:43:1636 km al NO de Socaire,2025-10-01 22:43:16,-23.374,-68.158,127.0,2.8,Antofagasta,"https://www.google.com/maps?q=-23.374,-68.158",100–200 km
-2025-10-01 19:42:2921 km al O de Andacollo,2025-10-01 22:42:29,-30.176,-71.289,62.0,2.6,Coquimbo,"https://www.google.com/maps?q=-30.176,-71.289",60–100 km
-2025-10-01 19:38:3837 km al E de Tacna,2025-10-01 22:38:38,-18.095,-69.906,148.0,2.6,Arica y Parinacota,"https://www.google.com/maps?q=-18.095,-69.906",100–200 km
-2025-10-01 19:33:2676 km al SE de Socaire,2025-10-01 22:33:26,-23.99,-67.279,234.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.99,-67.279",200–500 km
-2025-10-01 19:13:1271 km al E de Mina La Escondida,2025-10-01 22:13:12,-24.327,-68.359,259.0,3.4,Antofagasta,"https://www.google.com/maps?q=-24.327,-68.359",200–500 km
-2025-10-01 18:58:1224 km al SE de Calama,2025-10-01 21:58:12,-22.606,-68.754,105.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.606,-68.754",100–200 km
-2025-10-01 16:45:3151 km al NE de Calama,2025-10-01 19:45:31,-22.218,-68.52,135.0,2.8,Antofagasta,"https://www.google.com/maps?q=-22.218,-68.52",100–200 km
-2025-10-01 15:40:3768 km al N de Calama,2025-10-01 18:40:37,-21.882,-68.757,119.0,2.9,Antofagasta,"https://www.google.com/maps?q=-21.882,-68.757",100–200 km
-2025-10-01 15:32:4777 km al E de Mina La Escondida,2025-10-01 18:32:47,-24.329,-68.298,254.0,3.2,Antofagasta,"https://www.google.com/maps?q=-24.329,-68.298",200–500 km
-2025-10-01 15:22:1736 km al SE de Pica,2025-10-01 18:22:17,-20.785,-69.193,105.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.785,-69.193",100–200 km
-2025-10-01 14:37:3527 km al NE de Arica,2025-10-01 17:37:35,-18.346,-70.104,84.0,3.7,Arica y Parinacota,"https://www.google.com/maps?q=-18.346,-70.104",60–100 km
-2025-10-01 14:06:1017 km al E de Termas del Flaco,2025-10-01 17:06:10,-34.909,-70.255,151.0,3.4,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.909,-70.255",100–200 km
-2025-10-01 13:53:2852 km al O de OllagÃ¼e,2025-10-01 16:53:28,-21.373,-68.729,119.0,3.4,Antofagasta,"https://www.google.com/maps?q=-21.373,-68.729",100–200 km
-2025-10-01 13:16:2838 km al NE de Pica,2025-10-01 16:16:28,-20.33,-69.009,99.0,3.7,Tarapacá,"https://www.google.com/maps?q=-20.33,-69.009",60–100 km
-2025-10-01 12:22:2913 km al N de Los Ãngeles,2025-10-01 15:22:29,-37.361,-72.31,64.0,2.8,Biobío,"https://www.google.com/maps?q=-37.361,-72.31",60–100 km
-2025-10-01 11:46:4135 km al O de OllagÃ¼e,2025-10-01 14:46:41,-21.139,-68.58,124.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.139,-68.58",100–200 km
-2025-10-01 10:42:5830 km al O de Termas del Flaco,2025-10-01 13:42:58,-34.847,-70.733,116.0,2.8,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.847,-70.733",100–200 km
-2025-10-01 09:11:5647 km al SE de Socaire,2025-10-01 12:11:56,-23.939,-67.625,263.0,3.2,Antofagasta,"https://www.google.com/maps?q=-23.939,-67.625",200–500 km
-2025-10-01 08:53:2037 km al NE de Victoria,2025-10-01 11:53:20,-37.955,-72.096,84.0,3.5,La Araucanía,"https://www.google.com/maps?q=-37.955,-72.096",60–100 km
-2025-10-01 08:47:5916 km al SO de Calama,2025-10-01 11:47:59,-22.562,-69.047,81.0,2.7,Antofagasta,"https://www.google.com/maps?q=-22.562,-69.047",60–100 km
-2025-10-01 08:26:0762 km al NE de Quillagua,2025-10-01 11:26:07,-21.393,-69.007,99.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.393,-69.007",60–100 km
-2025-10-01 08:12:5426 km al NO de Quintero,2025-10-01 11:12:54,-32.635,-71.742,40.0,2.7,Valparaíso,"https://www.google.com/maps?q=-32.635,-71.742",30–60 km
-2025-10-01 05:40:0052 km al SO de San Pedro de Atacama,2025-10-01 08:40:00,-23.31,-68.483,102.0,3.0,Antofagasta,"https://www.google.com/maps?q=-23.31,-68.483",100–200 km
-2025-10-01 05:27:5026 km al N de Quillagua,2025-10-01 08:27:50,-21.428,-69.544,26.0,3.1,Antofagasta,"https://www.google.com/maps?q=-21.428,-69.544",10–30 km
-2025-10-01 04:49:1634 km al NE de Entre Lagos,2025-10-01 07:49:16,-40.53,-72.252,11.0,2.6,Los Ríos,"https://www.google.com/maps?q=-40.53,-72.252",10–30 km
-2025-10-01 02:39:4350 km al E de Arica,2025-10-01 05:39:43,-18.639,-69.874,89.0,2.9,Arica y Parinacota,"https://www.google.com/maps?q=-18.639,-69.874",60–100 km
-2025-10-01 01:10:4379 km al SE de Socaire,2025-10-01 04:10:43,-24.14,-67.4,230.0,3.2,Antofagasta,"https://www.google.com/maps?q=-24.14,-67.4",200–500 km
-2025-09-30 20:22:3463 km al SE de Socaire,2025-09-30 23:22:34,-23.932,-67.397,235.0,3.6,Antofagasta,"https://www.google.com/maps?q=-23.932,-67.397",200–500 km
-2025-09-30 17:31:0665 km al NE de Quillagua,2025-09-30 20:31:06,-21.304,-69.03,110.0,4.4,Antofagasta,"https://www.google.com/maps?q=-21.304,-69.03",100–200 km
-2025-09-30 15:20:3766 km al SE de Socaire,2025-09-30 18:20:37,-24.107,-67.564,211.0,4.1,Antofagasta,"https://www.google.com/maps?q=-24.107,-67.564",200–500 km
-2025-09-30 11:37:1644 km al SE de Pica,2025-09-30 14:37:16,-20.853,-69.154,104.0,3.7,Tarapacá,"https://www.google.com/maps?q=-20.853,-69.154",100–200 km
-2025-09-30 09:57:1443 km al SE de Pica,2025-09-30 12:57:14,-20.843,-69.156,107.0,3.2,Tarapacá,"https://www.google.com/maps?q=-20.843,-69.156",100–200 km
-2025-09-30 09:48:5136 km al N de Pica,2025-09-30 12:48:51,-20.171,-69.26,111.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.171,-69.26",100–200 km
-2025-09-30 07:55:2951 km al O de OllagÃ¼e,2025-09-30 10:55:29,-21.316,-68.731,110.0,3.1,Antofagasta,"https://www.google.com/maps?q=-21.316,-68.731",100–200 km
-2025-09-30 03:30:1537 km al E de CamiÃ±a,2025-09-30 06:30:15,-19.339,-69.071,11.0,3.6,Tarapacá,"https://www.google.com/maps?q=-19.339,-69.071",10–30 km
-2025-09-30 03:23:5538 km al E de CamiÃ±a,2025-09-30 06:23:55,-19.317,-69.068,18.0,2.8,Tarapacá,"https://www.google.com/maps?q=-19.317,-69.068",10–30 km
-2025-09-30 01:00:4089 km al SE de Socaire,2025-09-30 04:00:40,-24.281,-67.456,203.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.281,-67.456",200–500 km
-2025-09-30 00:46:5430 km al O de Mina Collahuasi,2025-09-30 03:46:54,-20.915,-68.933,108.0,2.8,Tarapacá,"https://www.google.com/maps?q=-20.915,-68.933",100–200 km
-2025-09-30 00:17:2534 km al NE de Linares,2025-09-30 03:17:25,-35.665,-71.293,93.0,2.8,Maule,"https://www.google.com/maps?q=-35.665,-71.293",60–100 km
-2025-09-29 22:52:3744 km al SO de Mina Collahuasi,2025-09-30 01:52:37,-21.064,-68.993,113.0,3.0,Tarapacá,"https://www.google.com/maps?q=-21.064,-68.993",100–200 km
-2025-09-29 22:19:5461 km al NE de Pozo Almonte,2025-09-30 01:19:54,-19.932,-69.321,93.0,2.9,Tarapacá,"https://www.google.com/maps?q=-19.932,-69.321",60–100 km
-2025-09-29 20:16:0938 km al SO de Mina Collahuasi,2025-09-29 23:16:09,-21.036,-68.949,110.0,3.1,Tarapacá,"https://www.google.com/maps?q=-21.036,-68.949",100–200 km
-2025-09-29 18:41:5930 km al NE de Los Andes,2025-09-29 21:41:59,-32.582,-70.488,20.0,3.4,Valparaíso,"https://www.google.com/maps?q=-32.582,-70.488",10–30 km
-2025-09-29 17:09:0417 km al SO de Ovalle,2025-09-29 20:09:04,-30.67,-71.36,51.0,2.9,Coquimbo,"https://www.google.com/maps?q=-30.67,-71.36",30–60 km
-2025-09-29 14:40:1851 km al N de Calama,2025-09-29 17:40:18,-22.034,-68.769,104.0,4.1,Antofagasta,"https://www.google.com/maps?q=-22.034,-68.769",100–200 km
-2025-09-29 11:48:2027 km al O de Quintero,2025-09-29 14:48:20,-32.788,-71.814,25.0,2.6,Valparaíso,"https://www.google.com/maps?q=-32.788,-71.814",10–30 km
-2025-09-29 11:09:1132 km al O de Quintero,2025-09-29 14:09:11,-32.791,-71.87,24.0,2.8,Valparaíso,"https://www.google.com/maps?q=-32.791,-71.87",10–30 km
-2025-09-29 09:59:0139 km al SO de Mina Collahuasi,2025-09-29 12:59:01,-21.017,-68.973,106.0,3.0,Tarapacá,"https://www.google.com/maps?q=-21.017,-68.973",100–200 km
-2025-09-29 09:00:3764 km al SE de Socaire,2025-09-29 12:00:37,-24.048,-67.502,222.0,4.2,Antofagasta,"https://www.google.com/maps?q=-24.048,-67.502",200–500 km
-2025-09-29 05:15:2572 km al S de OllagÃ¼e,2025-09-29 08:15:25,-21.83,-68.499,119.0,3.1,Antofagasta,"https://www.google.com/maps?q=-21.83,-68.499",100–200 km
-2025-09-29 04:26:2728 km al NE de Pica,2025-09-29 07:26:27,-20.261,-69.229,94.0,3.3,Tarapacá,"https://www.google.com/maps?q=-20.261,-69.229",60–100 km
-2025-09-29 00:16:268 km al O de Colina,2025-09-29 03:16:26,-33.218,-70.758,79.0,2.6,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.218,-70.758",60–100 km
-2025-09-29 00:08:4939 km al S de Mina Collahuasi,2025-09-29 03:08:49,-21.169,-68.742,113.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.169,-68.742",100–200 km
-2025-09-28 22:58:447 km al SE de San Pedro de Atacama,2025-09-29 01:58:44,-22.964,-68.154,142.0,4.1,Antofagasta,"https://www.google.com/maps?q=-22.964,-68.154",100–200 km
-2025-09-28 21:58:469 km al SE de Parque Fray Jorge,2025-09-29 00:58:46,-30.719,-71.617,29.0,3.2,Coquimbo,"https://www.google.com/maps?q=-30.719,-71.617",10–30 km
-2025-09-28 21:48:4214 km al SO de San Pedro de Atacama,2025-09-29 00:48:42,-23.023,-68.285,140.0,3.0,Antofagasta,"https://www.google.com/maps?q=-23.023,-68.285",100–200 km
-2025-09-28 18:53:2719 km al S de CamiÃ±a,2025-09-28 21:53:27,-19.482,-69.388,101.0,3.3,Tarapacá,"https://www.google.com/maps?q=-19.482,-69.388",100–200 km
-2025-09-28 18:31:0735 km al SO de Pichidangui,2025-09-28 21:31:07,-32.327,-71.823,28.0,3.6,Valparaíso,"https://www.google.com/maps?q=-32.327,-71.823",10–30 km
-2025-09-28 17:53:1842 km al SO de CamiÃ±a,2025-09-28 20:53:18,-19.559,-69.728,10.0,4.6,Tarapacá,"https://www.google.com/maps?q=-19.559,-69.728",<10 km
-2025-09-28 16:42:4516 km al NE de La Ligua,2025-09-28 19:42:45,-32.331,-71.131,87.0,3.4,Valparaíso,"https://www.google.com/maps?q=-32.331,-71.131",60–100 km
-2025-09-28 13:53:5446 km al O de TirÃºa,2025-09-28 16:53:54,-38.486,-73.986,52.0,3.4,La Araucanía,"https://www.google.com/maps?q=-38.486,-73.986",30–60 km
-2025-09-28 05:50:1554 km al O de El Tabo,2025-09-28 08:50:15,-33.251,-72.2,38.0,3.1,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.251,-72.2",30–60 km
-2025-09-28 03:42:3534 km al NE de CamiÃ±a,2025-09-28 06:42:35,-19.143,-69.159,120.0,3.1,Tarapacá,"https://www.google.com/maps?q=-19.143,-69.159",100–200 km
-2025-09-28 02:25:4436 km al S de Mina Collahuasi,2025-09-28 05:25:44,-21.15,-68.687,118.0,4.4,Tarapacá,"https://www.google.com/maps?q=-21.15,-68.687",100–200 km
-2025-09-27 23:59:1197 km al NE de San Pedro de Atacama,2025-09-28 02:59:11,-22.121,-67.826,225.0,3.4,Antofagasta,"https://www.google.com/maps?q=-22.121,-67.826",200–500 km
-2025-09-27 22:16:50121 km al O de ConstituciÃ³n,2025-09-28 01:16:50,-35.054,-73.704,37.0,3.0,Maule,"https://www.google.com/maps?q=-35.054,-73.704",30–60 km
-2025-09-27 22:05:0990 km al NE de San Pedro de Atacama,2025-09-28 01:05:09,-22.341,-67.589,202.0,3.5,Antofagasta,"https://www.google.com/maps?q=-22.341,-67.589",200–500 km
-2025-09-27 21:56:4134 km al SE de Linares,2025-09-28 00:56:41,-36.092,-71.37,107.0,2.8,Maule,"https://www.google.com/maps?q=-36.092,-71.37",100–200 km
-2025-09-27 21:55:0444 km al E de Talca,2025-09-28 00:55:04,-35.402,-71.182,91.0,3.7,Maule,"https://www.google.com/maps?q=-35.402,-71.182",60–100 km
-2025-09-27 20:38:5025 km al E de Pica,2025-09-27 23:38:50,-20.403,-69.109,89.0,2.8,Tarapacá,"https://www.google.com/maps?q=-20.403,-69.109",60–100 km
-2025-09-27 16:03:0126 km al SE de Sierra Gorda,2025-09-27 19:03:01,-23.016,-69.111,93.0,2.8,Antofagasta,"https://www.google.com/maps?q=-23.016,-69.111",60–100 km
-2025-09-27 12:01:0216 km al SE de Pichidangui,2025-09-27 15:01:02,-32.232,-71.397,57.0,3.3,Valparaíso,"https://www.google.com/maps?q=-32.232,-71.397",30–60 km
-2025-09-27 10:25:0826 km al S de Baquedano,2025-09-27 13:25:08,-23.56,-69.792,57.0,2.8,Antofagasta,"https://www.google.com/maps?q=-23.56,-69.792",30–60 km
-2025-09-27 10:23:5114 km al O de Cobquecura,2025-09-27 13:23:51,-36.154,-72.947,28.0,3.4,Maule,"https://www.google.com/maps?q=-36.154,-72.947",10–30 km
-2025-09-27 09:06:2976 km al SO de OllagÃ¼e,2025-09-27 12:06:29,-21.862,-68.518,120.0,3.5,Antofagasta,"https://www.google.com/maps?q=-21.862,-68.518",100–200 km
-2025-09-27 08:49:2151 km al S de Mina Collahuasi,2025-09-27 11:49:21,-21.257,-68.815,105.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.257,-68.815",100–200 km
-2025-09-27 07:33:4138 km al SE de Sierra Gorda,2025-09-27 10:33:41,-23.036,-68.988,78.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.036,-68.988",60–100 km
-2025-09-27 07:05:2825 km al NO de Mina Collahuasi,2025-09-27 10:05:28,-20.719,-68.868,116.0,2.7,Tarapacá,"https://www.google.com/maps?q=-20.719,-68.868",100–200 km
-2025-09-27 06:05:4691 km al O de San Antonio de los Cobres,2025-09-27 09:05:46,-24.321,-67.206,208.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.321,-67.206",200–500 km
-2025-09-27 05:30:3947 km al E de Farellones,2025-09-27 08:30:39,-33.341,-69.803,9.0,2.5,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.341,-69.803",<10 km
-2025-09-27 04:47:3337 km al S de Mina Collahuasi,2025-09-27 07:47:33,-21.154,-68.733,117.0,4.0,Tarapacá,"https://www.google.com/maps?q=-21.154,-68.733",100–200 km
-2025-09-27 04:00:2144 km al O de Iquique,2025-09-27 07:00:21,-20.349,-70.552,40.0,3.4,Tarapacá,"https://www.google.com/maps?q=-20.349,-70.552",30–60 km
-2025-09-27 03:03:146 km al NE de Putre,2025-09-27 06:03:14,-18.17,-69.511,122.0,2.5,Arica y Parinacota,"https://www.google.com/maps?q=-18.17,-69.511",100–200 km
-2025-09-27 02:32:3724 km al E de Socaire,2025-09-27 05:32:37,-23.581,-67.652,266.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.581,-67.652",200–500 km
-2025-09-27 02:12:5962 km al NE de Socaire,2025-09-27 05:12:59,-23.298,-67.372,265.0,3.6,Antofagasta,"https://www.google.com/maps?q=-23.298,-67.372",200–500 km
-2025-09-27 02:06:3759 km al NE de Los Andes,2025-09-27 05:06:37,-32.54,-70.073,105.0,2.6,Valparaíso,"https://www.google.com/maps?q=-32.54,-70.073",100–200 km
-2025-09-27 01:08:1784 km al NE de Socaire,2025-09-27 04:08:17,-23.205,-67.178,232.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.205,-67.178",200–500 km
-2025-09-27 00:31:5029 km al NE de Arica,2025-09-27 03:31:50,-18.314,-70.108,101.0,3.5,Arica y Parinacota,"https://www.google.com/maps?q=-18.314,-70.108",100–200 km
-2025-09-26 21:44:23107 km al S de Ilo,2025-09-27 00:44:23,-18.604,-71.381,13.0,3.6,Arica y Parinacota,"https://www.google.com/maps?q=-18.604,-71.381",10–30 km
-2025-09-26 21:35:5437 km al SE de Putre,2025-09-27 00:35:54,-18.492,-69.389,123.0,2.6,Arica y Parinacota,"https://www.google.com/maps?q=-18.492,-69.389",100–200 km
-2025-09-26 19:21:4710 km al NE de Parque Fray Jorge,2025-09-26 22:21:47,-30.585,-71.639,31.0,3.3,Coquimbo,"https://www.google.com/maps?q=-30.585,-71.639",30–60 km
-2025-09-26 18:51:4564 km al NE de San Pedro de Atacama,2025-09-26 21:51:45,-22.398,-67.948,218.0,2.8,Antofagasta,"https://www.google.com/maps?q=-22.398,-67.948",200–500 km
-2025-09-26 16:22:1175 km al NE de Socaire,2025-09-26 19:22:11,-23.139,-67.341,248.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.139,-67.341",200–500 km
-2025-09-26 15:48:5777 km al NO de Cobquecura,2025-09-26 18:48:57,-35.743,-73.502,10.0,3.0,Maule,"https://www.google.com/maps?q=-35.743,-73.502",<10 km
-2025-09-26 14:56:3565 km al N de Mina La Escondida,2025-09-26 17:56:35,-23.7,-68.904,96.0,2.9,Antofagasta,"https://www.google.com/maps?q=-23.7,-68.904",60–100 km
-2025-09-26 14:04:1035 km al S de Patache,2025-09-26 17:04:10,-21.124,-70.175,43.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.124,-70.175",30–60 km
-2025-09-26 13:36:0736 km al S de Patache,2025-09-26 16:36:07,-21.13,-70.165,38.0,3.3,Tarapacá,"https://www.google.com/maps?q=-21.13,-70.165",30–60 km
-2025-09-26 13:11:1851 km al NE de Socaire,2025-09-26 16:11:18,-23.323,-67.488,262.0,2.9,Antofagasta,"https://www.google.com/maps?q=-23.323,-67.488",200–500 km
-2025-09-26 11:47:0350 km al N de Tocopilla,2025-09-26 14:47:03,-21.658,-70.088,77.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.658,-70.088",60–100 km
-2025-09-26 11:29:4639 km al E de CamiÃ±a,2025-09-26 14:29:46,-19.358,-69.056,3.0,3.4,Tarapacá,"https://www.google.com/maps?q=-19.358,-69.056",<10 km
-2025-09-26 10:43:4677 km al S de Socaire,2025-09-26 13:43:46,-24.284,-67.921,235.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.284,-67.921",200–500 km
-2025-09-26 08:17:0155 km al S de CamiÃ±a,2025-09-26 11:17:01,-19.806,-69.344,103.0,2.7,Tarapacá,"https://www.google.com/maps?q=-19.806,-69.344",100–200 km
-2025-09-26 08:14:5372 km al NE de Calama,2025-09-26 11:14:53,-21.876,-68.657,118.0,2.6,Antofagasta,"https://www.google.com/maps?q=-21.876,-68.657",100–200 km
-2025-09-26 07:00:1131 km al S de Melipilla,2025-09-26 10:00:11,-33.963,-71.215,72.0,2.8,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.963,-71.215",60–100 km
-2025-09-26 06:47:0260 km al E de OllagÃ¼e,2025-09-26 09:47:02,-21.224,-67.679,192.0,3.4,Tarapacá,"https://www.google.com/maps?q=-21.224,-67.679",100–200 km
-2025-09-26 06:09:3316 km al SO de Pichidangui,2025-09-26 09:09:33,-32.26,-71.625,63.0,2.9,Valparaíso,"https://www.google.com/maps?q=-32.26,-71.625",60–100 km
-2025-09-26 06:05:1025 km al NO de Colina,2025-09-26 09:05:10,-33.019,-70.834,84.0,2.7,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.019,-70.834",60–100 km
-2025-09-26 04:10:2141 km al SO de Mina Collahuasi,2025-09-26 07:10:21,-21.137,-68.871,119.0,2.7,Tarapacá,"https://www.google.com/maps?q=-21.137,-68.871",100–200 km
-2025-09-26 03:22:1571 km al E de Mina Los Pelambres,2025-09-26 06:22:15,-31.712,-69.842,157.0,2.9,Coquimbo,"https://www.google.com/maps?q=-31.712,-69.842",100–200 km
-2025-09-26 01:56:2570 km al NE de Mina Los Pelambres,2025-09-26 04:56:25,-31.281,-70.211,124.0,2.9,Coquimbo,"https://www.google.com/maps?q=-31.281,-70.211",100–200 km
-2025-09-26 00:19:4824 km al SE de CamiÃ±a,2025-09-26 03:19:48,-19.484,-69.28,102.0,2.5,Tarapacá,"https://www.google.com/maps?q=-19.484,-69.28",100–200 km
-2025-09-26 00:12:2219 km al S de CamiÃ±a,2025-09-26 03:12:22,-19.48,-69.379,98.0,3.2,Tarapacá,"https://www.google.com/maps?q=-19.48,-69.379",60–100 km
-2025-09-25 23:46:2714 km al S de Calama,2025-09-26 02:46:27,-22.6,-68.921,109.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.6,-68.921",100–200 km
-2025-09-25 23:15:5225 km al S de CamiÃ±a,2025-09-26 02:15:52,-19.528,-69.487,98.0,2.5,Tarapacá,"https://www.google.com/maps?q=-19.528,-69.487",60–100 km
-2025-09-25 22:26:5130 km al NO de Quintero,2025-09-26 01:26:51,-32.572,-71.731,36.0,3.6,Valparaíso,"https://www.google.com/maps?q=-32.572,-71.731",30–60 km
-2025-09-25 22:10:5142 km al E de Mina Los Pelambres,2025-09-26 01:10:51,-31.988,-70.182,131.0,2.5,Coquimbo,"https://www.google.com/maps?q=-31.988,-70.182",100–200 km
-2025-09-25 22:05:2089 km al E de Socaire,2025-09-26 01:05:20,-23.354,-67.053,243.0,4.0,Antofagasta,"https://www.google.com/maps?q=-23.354,-67.053",200–500 km
-2025-09-25 18:06:5038 km al SE de San Pedro de Atacama,2025-09-25 21:06:50,-23.13,-67.91,160.0,4.3,Antofagasta,"https://www.google.com/maps?q=-23.13,-67.91",100–200 km
-2025-09-25 17:48:0237 km al S de Mina Collahuasi,2025-09-25 20:48:02,-21.151,-68.731,119.0,3.1,Tarapacá,"https://www.google.com/maps?q=-21.151,-68.731",100–200 km
-2025-09-25 17:46:0254 km al S de Socaire,2025-09-25 20:46:02,-24.049,-67.733,271.0,3.4,Antofagasta,"https://www.google.com/maps?q=-24.049,-67.733",200–500 km
-2025-09-25 16:28:0023 km al NO de Los Vilos,2025-09-25 19:28:00,-31.722,-71.606,35.0,4.1,Coquimbo,"https://www.google.com/maps?q=-31.722,-71.606",30–60 km
-2025-09-25 16:24:5125 km al SE de CamiÃ±a,2025-09-25 19:24:51,-19.485,-69.276,103.0,2.8,Tarapacá,"https://www.google.com/maps?q=-19.485,-69.276",100–200 km
-2025-09-25 15:56:5625 km al SE de CamiÃ±a,2025-09-25 18:56:56,-19.472,-69.258,103.0,3.0,Tarapacá,"https://www.google.com/maps?q=-19.472,-69.258",100–200 km
-2025-09-25 15:53:5224 km al SE de CamiÃ±a,2025-09-25 18:53:52,-19.474,-69.269,100.0,2.8,Tarapacá,"https://www.google.com/maps?q=-19.474,-69.269",60–100 km
-2025-09-25 15:11:4425 km al SE de CamiÃ±a,2025-09-25 18:11:44,-19.509,-69.305,105.0,5.4,Tarapacá,"https://www.google.com/maps?q=-19.509,-69.305",100–200 km
-2025-09-25 14:02:3419 km al S de Mina Collahuasi,2025-09-25 17:02:34,-20.996,-68.704,122.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.996,-68.704",100–200 km
-2025-09-25 11:57:5842 km al SE de Pica,2025-09-25 14:57:58,-20.797,-69.089,112.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.797,-69.089",100–200 km
-2025-09-25 11:40:5453 km al SE de Socaire,2025-09-25 14:40:54,-23.929,-67.528,277.0,3.4,Antofagasta,"https://www.google.com/maps?q=-23.929,-67.528",200–500 km
-2025-09-25 10:28:2994 km al E de Paposo,2025-09-25 13:28:29,-25.197,-69.556,96.0,3.3,Antofagasta,"https://www.google.com/maps?q=-25.197,-69.556",60–100 km
-2025-09-25 07:48:1456 km al S de Colchane,2025-09-25 10:48:14,-19.763,-68.759,119.0,3.1,Tarapacá,"https://www.google.com/maps?q=-19.763,-68.759",100–200 km
-2025-09-25 06:46:1860 km al SO de OllagÃ¼e,2025-09-25 09:46:18,-21.671,-68.584,108.0,2.9,Antofagasta,"https://www.google.com/maps?q=-21.671,-68.584",100–200 km
-2025-09-25 06:24:5947 km al SE de Socaire,2025-09-25 09:24:59,-23.854,-67.526,170.0,3.1,Antofagasta,"https://www.google.com/maps?q=-23.854,-67.526",100–200 km
-2025-09-25 06:16:4321 km al E de OllagÃ¼e,2025-09-25 09:16:43,-21.214,-68.054,153.0,2.8,Tarapacá,"https://www.google.com/maps?q=-21.214,-68.054",100–200 km
-2025-09-25 06:10:5245 km al S de Socaire,2025-09-25 09:10:52,-23.989,-67.842,240.0,3.1,Antofagasta,"https://www.google.com/maps?q=-23.989,-67.842",200–500 km
-2025-09-25 05:46:3548 km al N de Calama,2025-09-25 08:46:35,-22.042,-68.943,133.0,2.8,Antofagasta,"https://www.google.com/maps?q=-22.042,-68.943",100–200 km
-2025-09-25 04:34:367 km al N de OllagÃ¼e,2025-09-25 07:34:36,-21.165,-68.271,171.0,2.8,Tarapacá,"https://www.google.com/maps?q=-21.165,-68.271",100–200 km
-2025-09-25 04:05:03122 km al E de Linares,2025-09-25 07:05:03,-36.105,-70.276,185.0,3.4,Maule,"https://www.google.com/maps?q=-36.105,-70.276",100–200 km
-2025-09-25 03:17:3648 km al O de Pichilemu,2025-09-25 06:17:36,-34.346,-72.534,42.0,3.3,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.346,-72.534",30–60 km
-2025-09-25 03:04:5858 km al N de Calama,2025-09-25 06:04:58,-21.966,-68.804,119.0,2.9,Antofagasta,"https://www.google.com/maps?q=-21.966,-68.804",100–200 km
-2025-09-25 02:40:4626 km al O de Quillagua,2025-09-25 05:40:46,-21.608,-69.781,63.0,3.3,Antofagasta,"https://www.google.com/maps?q=-21.608,-69.781",60–100 km
-2025-09-25 02:01:2166 km al NE de Calama,2025-09-25 05:01:21,-21.973,-68.579,136.0,3.1,Antofagasta,"https://www.google.com/maps?q=-21.973,-68.579",100–200 km
-2025-09-25 00:27:3465 km al SE de Socaire,2025-09-25 03:27:34,-23.987,-67.416,254.0,3.2,Antofagasta,"https://www.google.com/maps?q=-23.987,-67.416",200–500 km
-2025-09-24 23:43:3358 km al NO de San Antonio de los Cobres,2025-09-25 02:43:33,-23.85,-66.722,200.0,3.3,Antofagasta,"https://www.google.com/maps?q=-23.85,-66.722",100–200 km
-2025-09-24 22:43:4935 km al E de Mina Los Pelambres,2025-09-25 01:43:49,-31.951,-70.243,134.0,2.8,Coquimbo,"https://www.google.com/maps?q=-31.951,-70.243",100–200 km
-2025-09-24 21:53:4666 km al NE de San Pedro de Atacama,2025-09-25 00:53:46,-22.434,-67.826,184.0,2.6,Antofagasta,"https://www.google.com/maps?q=-22.434,-67.826",100–200 km
-2025-09-24 20:23:4030 km al E de Pichidangui,2025-09-24 23:23:40,-32.116,-71.214,63.0,3.7,Valparaíso,"https://www.google.com/maps?q=-32.116,-71.214",60–100 km
-2025-09-24 19:17:1646 km al SO de Mina Collahuasi,2025-09-24 22:17:16,-21.196,-68.851,120.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.196,-68.851",100–200 km
-2025-09-24 19:12:2753 km al SE de Caleta El Cobre,2025-09-24 22:12:27,-24.543,-70.11,73.0,3.8,Antofagasta,"https://www.google.com/maps?q=-24.543,-70.11",60–100 km
-2025-09-24 18:09:53125 km al NE de Socaire,2025-09-24 21:09:53,-23.067,-66.811,245.0,2.9,Antofagasta,"https://www.google.com/maps?q=-23.067,-66.811",200–500 km
-2025-09-24 16:51:0221 km al S de Pozo Almonte,2025-09-24 19:51:02,-20.449,-69.773,62.0,3.3,Tarapacá,"https://www.google.com/maps?q=-20.449,-69.773",60–100 km
-2025-09-24 16:48:2546 km al S de Mina Collahuasi,2025-09-24 19:48:25,-21.23,-68.758,112.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.23,-68.758",100–200 km
-2025-09-24 16:00:4954 km al E de Sierra Gorda,2025-09-24 19:00:49,-23.083,-68.836,99.0,2.8,Antofagasta,"https://www.google.com/maps?q=-23.083,-68.836",60–100 km
-2025-09-24 15:09:3144 km al NE de Socaire,2025-09-24 18:09:31,-23.296,-67.6,290.0,3.1,Antofagasta,"https://www.google.com/maps?q=-23.296,-67.6",200–500 km
-2025-09-24 14:03:34108 km al E de Caleta Meteoro,2025-09-24 17:03:34,-52.81,-72.46,10.0,3.2,Magallanes y de la Antártica Chilena,"https://www.google.com/maps?q=-52.81,-72.46",<10 km
-2025-09-24 13:58:2942 km al O de Paposo,2025-09-24 16:58:29,-25.049,-70.883,55.0,2.7,Antofagasta,"https://www.google.com/maps?q=-25.049,-70.883",30–60 km
-2025-09-24 13:22:3729 km al NE de Antofagasta,2025-09-24 16:22:37,-23.539,-70.136,55.0,4.1,Antofagasta,"https://www.google.com/maps?q=-23.539,-70.136",30–60 km
-2025-09-24 12:59:5549 km al O de El Tabo,2025-09-24 15:59:55,-33.401,-72.19,40.0,2.7,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.401,-72.19",30–60 km
-2025-09-24 12:33:1729 km al E de Calama,2025-09-24 15:33:17,-22.56,-68.668,135.0,2.7,Antofagasta,"https://www.google.com/maps?q=-22.56,-68.668",100–200 km
-2025-09-24 12:15:3755 km al SO de OllagÃ¼e,2025-09-24 15:15:37,-21.645,-68.529,129.0,3.7,Antofagasta,"https://www.google.com/maps?q=-21.645,-68.529",100–200 km
-2025-09-24 09:15:3842 km al N de Calama,2025-09-24 12:15:38,-22.09,-68.968,111.0,4.3,Antofagasta,"https://www.google.com/maps?q=-22.09,-68.968",100–200 km
-2025-09-24 08:32:2962 km al O de Caldera,2025-09-24 11:32:29,-27.048,-71.449,37.0,3.8,Atacama,"https://www.google.com/maps?q=-27.048,-71.449",30–60 km
-2025-09-24 06:42:4790 km al NE de Mina Los Pelambres,2025-09-24 09:42:47,-31.463,-69.735,153.0,2.8,Coquimbo,"https://www.google.com/maps?q=-31.463,-69.735",100–200 km
-2025-09-24 05:33:59102 km al E de Paihuano,2025-09-24 08:33:59,-30.266,-69.495,4.0,2.6,Coquimbo,"https://www.google.com/maps?q=-30.266,-69.495",<10 km
-2025-09-24 05:22:244 km al SO de Parque Fray Jorge,2025-09-24 08:22:24,-30.693,-71.698,33.0,3.1,Coquimbo,"https://www.google.com/maps?q=-30.693,-71.698",30–60 km
-2025-09-24 05:07:3538 km al O de OllagÃ¼e,2025-09-24 08:07:35,-21.168,-68.614,129.0,3.3,Tarapacá,"https://www.google.com/maps?q=-21.168,-68.614",100–200 km
-2025-09-24 04:12:4444 km al N de Pica,2025-09-24 07:12:44,-20.102,-69.227,92.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.102,-69.227",60–100 km
-2025-09-24 02:28:3649 km al E de Los Andes,2025-09-24 05:28:36,-32.661,-70.112,130.0,2.8,Valparaíso,"https://www.google.com/maps?q=-32.661,-70.112",100–200 km
-2025-09-24 02:06:2242 km al N de Calama,2025-09-24 05:06:22,-22.099,-68.982,106.0,4.8,Antofagasta,"https://www.google.com/maps?q=-22.099,-68.982",100–200 km
-2025-09-24 01:57:0061 km al N de Mina La Escondida,2025-09-24 04:57:00,-23.723,-69.128,94.0,5.1,Antofagasta,"https://www.google.com/maps?q=-23.723,-69.128",60–100 km
-2025-09-24 00:54:3131 km al E de Sierra Gorda,2025-09-24 03:54:31,-22.93,-69.023,98.0,2.6,Antofagasta,"https://www.google.com/maps?q=-22.93,-69.023",60–100 km
-2025-09-23 23:47:32134 km al O de El Tabo,2025-09-24 02:47:32,-33.241,-73.089,31.0,3.8,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.241,-73.089",30–60 km
-2025-09-23 23:44:5365 km al S de Ilo,2025-09-24 02:44:53,-18.23,-71.3,50.0,2.5,Arica y Parinacota,"https://www.google.com/maps?q=-18.23,-71.3",30–60 km
-2025-09-23 22:58:1141 km al SO de Puerto Aguirre,2025-09-24 01:58:11,-45.392,-73.937,57.0,3.0,Aysén del General Carlos Ibáñez del Campo,"https://www.google.com/maps?q=-45.392,-73.937",30–60 km
-2025-09-23 21:54:5594 km al E de Linares,2025-09-24 00:54:55,-36.14,-70.623,7.0,2.5,Maule,"https://www.google.com/maps?q=-36.14,-70.623",<10 km
-2025-09-23 20:09:0620 km al S de Canela Baja,2025-09-23 23:09:06,-31.579,-71.428,84.0,3.1,Coquimbo,"https://www.google.com/maps?q=-31.579,-71.428",60–100 km
-2025-09-23 19:26:2432 km al N de Pica,2025-09-23 22:26:24,-20.2,-69.297,92.0,2.9,Tarapacá,"https://www.google.com/maps?q=-20.2,-69.297",60–100 km
-2025-09-23 15:49:2021 km al E de Antofagasta,2025-09-23 18:49:20,-23.692,-70.189,55.0,3.7,Antofagasta,"https://www.google.com/maps?q=-23.692,-70.189",30–60 km
-2025-09-23 14:54:5179 km al E de Mina La Escondida,2025-09-23 17:54:51,-24.452,-68.298,177.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.452,-68.298",100–200 km
-2025-09-23 14:26:2678 km al O de Pichidangui,2025-09-23 17:26:26,-32.195,-72.36,36.0,2.8,Valparaíso,"https://www.google.com/maps?q=-32.195,-72.36",30–60 km
-2025-09-23 13:31:0226 km al NE de Sierra Gorda,2025-09-23 16:31:02,-22.787,-69.095,84.0,4.4,Antofagasta,"https://www.google.com/maps?q=-22.787,-69.095",60–100 km
-2025-09-23 13:30:2048 km al SO de Mina Collahuasi,2025-09-23 16:30:20,-21.17,-68.936,102.0,2.8,Tarapacá,"https://www.google.com/maps?q=-21.17,-68.936",100–200 km
-2025-09-23 11:10:3526 km al NO de Quintero,2025-09-23 14:10:35,-32.607,-71.712,42.0,3.1,Valparaíso,"https://www.google.com/maps?q=-32.607,-71.712",30–60 km
-2025-09-23 06:15:4764 km al E de Rancagua,2025-09-23 09:15:47,-34.393,-70.1,7.0,2.6,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.393,-70.1",<10 km
-2025-09-23 02:25:3027 km al SO de Paposo,2025-09-23 05:25:30,-25.144,-70.691,47.0,3.6,Antofagasta,"https://www.google.com/maps?q=-25.144,-70.691",30–60 km
-2025-09-23 00:36:45136 km al O de BahÃ­a Mansa,2025-09-23 03:36:45,-40.226,-75.269,26.0,5.1,La Araucanía,"https://www.google.com/maps?q=-40.226,-75.269",10–30 km
-2025-09-22 23:53:1389 km al SE de Socaire,2025-09-23 02:53:13,-24.304,-67.501,198.0,3.7,Antofagasta,"https://www.google.com/maps?q=-24.304,-67.501",100–200 km
-2025-09-22 20:16:1765 km al SE de Socaire,2025-09-22 23:16:17,-24.098,-67.569,192.0,4.0,Antofagasta,"https://www.google.com/maps?q=-24.098,-67.569",100–200 km
-2025-09-22 18:29:1329 km al SE de CamiÃ±a,2025-09-22 21:29:13,-19.548,-69.314,112.0,4.1,Tarapacá,"https://www.google.com/maps?q=-19.548,-69.314",100–200 km
-2025-09-22 18:02:5953 km al NE de Calama,2025-09-22 21:02:59,-22.028,-68.734,138.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.028,-68.734",100–200 km
-2025-09-22 16:34:3481 km al NO de ChaÃ±aral,2025-09-22 19:34:34,-25.844,-71.213,55.0,3.0,Atacama,"https://www.google.com/maps?q=-25.844,-71.213",30–60 km
-2025-09-22 13:50:4573 km al SE de Socaire,2025-09-22 16:50:45,-24.06,-67.395,185.0,4.3,Antofagasta,"https://www.google.com/maps?q=-24.06,-67.395",100–200 km
-2025-09-22 10:50:2031 km al S de Taltal,2025-09-22 13:50:20,-25.672,-70.387,65.0,3.1,Atacama,"https://www.google.com/maps?q=-25.672,-70.387",60–100 km
-2025-09-22 09:43:4437 km al E de CamiÃ±a,2025-09-22 12:43:44,-19.382,-69.086,106.0,2.9,Tarapacá,"https://www.google.com/maps?q=-19.382,-69.086",100–200 km
-2025-09-22 05:05:3342 km al SO de Socaire,2025-09-22 08:05:33,-23.919,-68.085,138.0,3.5,Antofagasta,"https://www.google.com/maps?q=-23.919,-68.085",100–200 km
-2025-09-22 05:01:1826 km al O de OllagÃ¼e,2025-09-22 08:01:18,-21.317,-68.484,136.0,3.3,Antofagasta,"https://www.google.com/maps?q=-21.317,-68.484",100–200 km
-2025-09-22 02:16:0287 km al O de San Antonio de los Cobres,2025-09-22 05:16:02,-24.012,-67.143,238.0,4.3,Antofagasta,"https://www.google.com/maps?q=-24.012,-67.143",200–500 km
-2025-09-22 01:13:4140 km al E de CamiÃ±a,2025-09-22 04:13:41,-19.353,-69.047,7.0,2.8,Tarapacá,"https://www.google.com/maps?q=-19.353,-69.047",<10 km
-2025-09-21 23:40:1240 km al E de CamiÃ±a,2025-09-22 02:40:12,-19.344,-69.043,7.0,2.6,Tarapacá,"https://www.google.com/maps?q=-19.344,-69.043",<10 km
-2025-09-21 19:34:3715 km al NO de CamiÃ±a,2025-09-21 22:34:37,-19.199,-69.502,112.0,3.3,Tarapacá,"https://www.google.com/maps?q=-19.199,-69.502",100–200 km
-2025-09-21 17:38:0467 km al S de Socaire,2025-09-21 20:38:04,-24.179,-67.778,178.0,3.3,Antofagasta,"https://www.google.com/maps?q=-24.179,-67.778",100–200 km
-2025-09-21 16:16:3549 km al O de El Tabo,2025-09-21 19:16:35,-33.418,-72.192,25.0,3.0,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.418,-72.192",10–30 km
-2025-09-21 15:35:3237 km al SO de Mina Collahuasi,2025-09-21 18:35:32,-21.033,-68.94,104.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.033,-68.94",100–200 km
-2025-09-21 15:11:1657 km al S de Sierra Gorda,2025-09-21 18:11:16,-23.401,-69.233,86.0,3.2,Antofagasta,"https://www.google.com/maps?q=-23.401,-69.233",60–100 km
-2025-09-21 11:27:5215 km al O de Quillota,2025-09-21 14:27:52,-32.938,-71.397,62.0,2.9,Valparaíso,"https://www.google.com/maps?q=-32.938,-71.397",60–100 km
-2025-09-21 11:18:2073 km al E de Socaire,2025-09-21 14:18:20,-23.759,-67.2,204.0,3.8,Antofagasta,"https://www.google.com/maps?q=-23.759,-67.2",200–500 km
-2025-09-21 09:49:2737 km al SO de Mina Collahuasi,2025-09-21 12:49:27,-21.099,-68.864,111.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.099,-68.864",100–200 km
-2025-09-21 08:54:5959 km al NE de Calama,2025-09-21 11:54:59,-21.975,-68.719,110.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.975,-68.719",100–200 km
-2025-09-21 06:49:1450 km al NO de Mina Collahuasi,2025-09-21 09:49:14,-20.405,-68.835,118.0,3.4,Tarapacá,"https://www.google.com/maps?q=-20.405,-68.835",100–200 km
-2025-09-21 06:20:5725 km al NO de Petorca,2025-09-21 09:20:57,-32.062,-71.077,64.0,3.5,Valparaíso,"https://www.google.com/maps?q=-32.062,-71.077",60–100 km
-2025-09-21 04:50:5618 km al O de VichuquÃ©n,2025-09-21 07:50:56,-34.883,-72.194,41.0,2.7,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.883,-72.194",30–60 km
-2025-09-21 04:25:5951 km al SE de Patache,2025-09-21 07:25:59,-21.188,-69.928,38.0,2.7,Tarapacá,"https://www.google.com/maps?q=-21.188,-69.928",30–60 km
-2025-09-21 04:21:3248 km al SO de Pica,2025-09-21 07:21:32,-20.894,-69.498,85.0,3.6,Tarapacá,"https://www.google.com/maps?q=-20.894,-69.498",60–100 km
-2025-09-21 03:49:4140 km al E de CamiÃ±a,2025-09-21 06:49:41,-19.354,-69.05,6.0,2.5,Tarapacá,"https://www.google.com/maps?q=-19.354,-69.05",<10 km
-2025-09-21 02:07:4739 km al E de CamiÃ±a,2025-09-21 05:07:47,-19.345,-69.057,4.0,3.0,Tarapacá,"https://www.google.com/maps?q=-19.345,-69.057",<10 km
-2025-09-21 02:07:1540 km al E de CamiÃ±a,2025-09-21 05:07:15,-19.353,-69.048,6.0,3.4,Tarapacá,"https://www.google.com/maps?q=-19.353,-69.048",<10 km
-2025-09-21 02:05:4740 km al E de CamiÃ±a,2025-09-21 05:05:47,-19.352,-69.046,7.0,2.6,Tarapacá,"https://www.google.com/maps?q=-19.352,-69.046",<10 km
-2025-09-21 00:00:1887 km al O de Iquique,2025-09-21 03:00:18,-20.14,-70.981,49.0,2.7,Tarapacá,"https://www.google.com/maps?q=-20.14,-70.981",30–60 km
-2025-09-20 23:39:2964 km al N de Calama,2025-09-21 02:39:29,-21.909,-68.787,111.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.909,-68.787",100–200 km
-2025-09-20 22:32:0941 km al E de CamiÃ±a,2025-09-21 01:32:09,-19.345,-69.041,8.0,2.9,Tarapacá,"https://www.google.com/maps?q=-19.345,-69.041",<10 km
-2025-09-20 21:56:0840 km al E de CamiÃ±a,2025-09-21 00:56:08,-19.352,-69.049,7.0,2.8,Tarapacá,"https://www.google.com/maps?q=-19.352,-69.049",<10 km
-2025-09-20 21:26:5746 km al N de Mejillones,2025-09-21 00:26:57,-22.696,-70.533,45.0,3.3,Antofagasta,"https://www.google.com/maps?q=-22.696,-70.533",30–60 km
-2025-09-20 21:11:2010 km al O de Punitaqui,2025-09-21 00:11:20,-30.862,-71.352,55.0,3.0,Coquimbo,"https://www.google.com/maps?q=-30.862,-71.352",30–60 km
-2025-09-20 20:23:5240 km al E de CamiÃ±a,2025-09-20 23:23:52,-19.342,-69.047,9.0,4.1,Tarapacá,"https://www.google.com/maps?q=-19.342,-69.047",<10 km
-2025-09-20 18:42:4926 km al E de CuricÃ³,2025-09-20 21:42:49,-35.031,-70.965,87.0,2.5,Maule,"https://www.google.com/maps?q=-35.031,-70.965",60–100 km
-2025-09-20 17:20:0254 km al S de Sierra Gorda,2025-09-20 20:20:02,-23.376,-69.263,96.0,2.6,Antofagasta,"https://www.google.com/maps?q=-23.376,-69.263",60–100 km
-2025-09-20 13:39:3647 km al O de San Pedro de Atacama,2025-09-20 16:39:36,-22.95,-68.653,88.0,3.0,Antofagasta,"https://www.google.com/maps?q=-22.95,-68.653",60–100 km
-2025-09-20 12:41:4967 km al SO de San Pedro de Atacama,2025-09-20 15:41:49,-23.409,-68.578,102.0,4.5,Antofagasta,"https://www.google.com/maps?q=-23.409,-68.578",100–200 km
-2025-09-20 11:41:4052 km al SO de OllagÃ¼e,2025-09-20 14:41:40,-21.538,-68.626,111.0,2.8,Antofagasta,"https://www.google.com/maps?q=-21.538,-68.626",100–200 km
-2025-09-20 08:37:547 km al O de Ovalle,2025-09-20 11:37:54,-30.629,-71.271,48.0,3.5,Coquimbo,"https://www.google.com/maps?q=-30.629,-71.271",30–60 km
-2025-09-20 07:26:3520 km al NO de Mina Collahuasi,2025-09-20 10:26:35,-20.721,-68.808,92.0,2.8,Tarapacá,"https://www.google.com/maps?q=-20.721,-68.808",60–100 km
-2025-09-20 05:54:5128 km al NO de CamiÃ±a,2025-09-20 08:54:51,-19.204,-69.669,88.0,2.8,Tarapacá,"https://www.google.com/maps?q=-19.204,-69.669",60–100 km
-2025-09-20 04:37:1613 km al N de Ovalle,2025-09-20 07:37:16,-30.488,-71.248,60.0,2.9,Coquimbo,"https://www.google.com/maps?q=-30.488,-71.248",30–60 km
-2025-09-20 04:29:2016 km al NO de Andacollo,2025-09-20 07:29:20,-30.141,-71.215,76.0,2.8,Coquimbo,"https://www.google.com/maps?q=-30.141,-71.215",60–100 km
-2025-09-19 23:24:3463 km al S de Socaire,2025-09-20 02:24:34,-24.127,-67.701,266.0,3.7,Antofagasta,"https://www.google.com/maps?q=-24.127,-67.701",200–500 km
-2025-09-19 22:35:1042 km al SE de Calama,2025-09-20 01:35:10,-22.779,-68.691,103.0,3.9,Antofagasta,"https://www.google.com/maps?q=-22.779,-68.691",100–200 km
-2025-09-19 22:00:5741 km al SE de Putre,2025-09-20 01:00:57,-18.47,-69.293,122.0,3.3,Arica y Parinacota,"https://www.google.com/maps?q=-18.47,-69.293",100–200 km
-2025-09-19 21:11:1832 km al E de Pica,2025-09-20 00:11:18,-20.46,-69.02,104.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.46,-69.02",100–200 km
-2025-09-19 20:04:22120 km al NO de ConstituciÃ³n,2025-09-19 23:04:22,-34.721,-73.505,31.0,2.9,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.721,-73.505",30–60 km
-2025-09-19 15:35:2830 km al NO de MarÃ­a Elena,2025-09-19 18:35:28,-22.217,-69.918,47.0,3.0,Antofagasta,"https://www.google.com/maps?q=-22.217,-69.918",30–60 km
-2025-09-19 14:40:4655 km al SE de CamiÃ±a,2025-09-19 17:40:46,-19.765,-69.215,96.0,2.7,Tarapacá,"https://www.google.com/maps?q=-19.765,-69.215",60–100 km
-2025-09-19 13:14:40100 km al E de Socaire,2025-09-19 16:14:40,-23.402,-66.927,265.0,3.4,Antofagasta,"https://www.google.com/maps?q=-23.402,-66.927",200–500 km
-2025-09-19 12:02:185 km al N de Melipilla,2025-09-19 15:02:18,-33.643,-71.198,68.0,3.3,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.643,-71.198",60–100 km
-2025-09-19 10:03:1753 km al O de Lebu,2025-09-19 13:03:17,-37.724,-74.245,39.0,3.3,Biobío,"https://www.google.com/maps?q=-37.724,-74.245",30–60 km
-2025-09-19 08:28:5444 km al O de ValparaÃ­so,2025-09-19 11:28:54,-33.061,-72.087,22.0,3.0,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.061,-72.087",10–30 km
-2025-09-19 07:55:2725 km al SO de Mina Collahuasi,2025-09-19 10:55:27,-20.972,-68.842,103.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.972,-68.842",100–200 km
-2025-09-19 07:36:2888 km al SE de Paihuano,2025-09-19 10:36:28,-30.427,-69.729,120.0,3.8,Coquimbo,"https://www.google.com/maps?q=-30.427,-69.729",100–200 km
-2025-09-19 07:14:3823 km al E de Pozo Almonte,2025-09-19 10:14:38,-20.255,-69.567,53.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.255,-69.567",30–60 km
-2025-09-19 06:25:0576 km al N de Calama,2025-09-19 09:25:05,-21.802,-68.786,126.0,2.6,Antofagasta,"https://www.google.com/maps?q=-21.802,-68.786",100–200 km
-2025-09-19 06:09:28152 km al O de Lebu,2025-09-19 09:09:28,-37.99,-75.313,30.0,3.1,La Araucanía,"https://www.google.com/maps?q=-37.99,-75.313",10–30 km
-2025-09-19 04:01:14112 km al NO de BahÃ­a Mansa,2025-09-19 07:01:14,-40.047,-74.845,18.0,2.6,La Araucanía,"https://www.google.com/maps?q=-40.047,-74.845",10–30 km
-2025-09-19 03:53:1732 km al N de Pica,2025-09-19 06:53:17,-20.22,-69.234,94.0,3.5,Tarapacá,"https://www.google.com/maps?q=-20.22,-69.234",60–100 km
-2025-09-19 03:34:4459 km al SO de Socaire,2025-09-19 06:34:44,-24.076,-68.114,262.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.076,-68.114",200–500 km
-2025-09-19 03:17:3722 km al SE de Tacna,2025-09-19 06:17:37,-18.206,-70.167,91.0,3.2,Arica y Parinacota,"https://www.google.com/maps?q=-18.206,-70.167",60–100 km
-2025-09-19 02:21:3130 km al N de Pica,2025-09-19 05:21:31,-20.232,-69.241,97.0,3.2,Tarapacá,"https://www.google.com/maps?q=-20.232,-69.241",60–100 km
-2025-09-19 01:55:5729 km al NE de Pica,2025-09-19 04:55:57,-20.253,-69.226,97.0,5.7,Tarapacá,"https://www.google.com/maps?q=-20.253,-69.226",60–100 km
-2025-09-19 01:41:2569 km al S de Socaire,2025-09-19 04:41:25,-24.184,-68.075,237.0,3.3,Antofagasta,"https://www.google.com/maps?q=-24.184,-68.075",200–500 km
-2025-09-18 22:15:3275 km al S de Socaire,2025-09-19 01:15:32,-24.263,-67.825,261.0,3.0,Antofagasta,"https://www.google.com/maps?q=-24.263,-67.825",200–500 km
-2025-09-18 17:05:2173 km al N de Calama,2025-09-18 20:05:21,-21.853,-68.687,130.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.853,-68.687",100–200 km
-2025-09-18 16:03:0468 km al SO de OllagÃ¼e,2025-09-18 19:03:04,-21.759,-68.578,120.0,2.9,Antofagasta,"https://www.google.com/maps?q=-21.759,-68.578",100–200 km
-2025-09-18 15:28:5880 km al E de Socaire,2025-09-18 18:28:58,-23.836,-67.154,235.0,3.1,Antofagasta,"https://www.google.com/maps?q=-23.836,-67.154",200–500 km
-2025-09-18 15:03:2063 km al O de Mendoza,2025-09-18 18:03:20,-32.872,-69.508,142.0,4.6,Valparaíso,"https://www.google.com/maps?q=-32.872,-69.508",100–200 km
-2025-09-18 14:14:0794 km al SE de Socaire,2025-09-18 17:14:07,-24.344,-67.48,194.0,3.7,Antofagasta,"https://www.google.com/maps?q=-24.344,-67.48",100–200 km
-2025-09-18 14:12:0926 km al SE de Mina La Escondida,2025-09-18 17:12:09,-24.476,-68.934,82.0,2.7,Antofagasta,"https://www.google.com/maps?q=-24.476,-68.934",60–100 km
-2025-09-18 13:43:3440 km al E de CamiÃ±a,2025-09-18 16:43:34,-19.341,-69.046,8.0,3.6,Tarapacá,"https://www.google.com/maps?q=-19.341,-69.046",<10 km
-2025-09-18 13:27:2977 km al SE de Socaire,2025-09-18 16:27:29,-24.115,-67.402,206.0,2.6,Antofagasta,"https://www.google.com/maps?q=-24.115,-67.402",200–500 km
-2025-09-18 13:07:4820 km al SO de Pichidangui,2025-09-18 16:07:48,-32.259,-71.691,36.0,2.9,Valparaíso,"https://www.google.com/maps?q=-32.259,-71.691",30–60 km
-2025-09-18 12:51:0928 km al E de Paihuano,2025-09-18 15:51:09,-30.029,-70.227,108.0,2.8,Coquimbo,"https://www.google.com/maps?q=-30.029,-70.227",100–200 km
-2025-09-18 11:32:4620 km al SO de Pichidangui,2025-09-18 14:32:46,-32.264,-71.676,23.0,2.9,Valparaíso,"https://www.google.com/maps?q=-32.264,-71.676",10–30 km
-2025-09-18 09:50:3230 km al S de Mina Collahuasi,2025-09-18 12:50:32,-21.093,-68.671,137.0,3.0,Tarapacá,"https://www.google.com/maps?q=-21.093,-68.671",100–200 km
-2025-09-18 09:43:4133 km al SE de Pica,2025-09-18 12:43:41,-20.753,-69.192,110.0,3.0,Tarapacá,"https://www.google.com/maps?q=-20.753,-69.192",100–200 km
-2025-09-18 08:56:2426 km al N de Canela Baja,2025-09-18 11:56:24,-31.169,-71.445,55.0,2.9,Coquimbo,"https://www.google.com/maps?q=-31.169,-71.445",30–60 km
-2025-09-18 06:36:0068 km al NE de Mina La Escondida,2025-09-18 09:36:00,-23.762,-68.676,18.0,2.7,Antofagasta,"https://www.google.com/maps?q=-23.762,-68.676",10–30 km
-2025-09-18 03:27:4137 km al SE de Pica,2025-09-18 06:27:41,-20.753,-69.109,100.0,2.7,Tarapacá,"https://www.google.com/maps?q=-20.753,-69.109",60–100 km
-2025-09-18 02:07:4219 km al N de Mina La Escondida,2025-09-18 05:07:42,-24.105,-69.027,95.0,3.0,Antofagasta,"https://www.google.com/maps?q=-24.105,-69.027",60–100 km
-2025-09-18 02:02:3130 km al SO de OllagÃ¼e,2025-09-18 05:02:31,-21.474,-68.369,126.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.474,-68.369",100–200 km
-2025-09-17 23:39:1674 km al SE de Socaire,2025-09-18 02:39:16,-24.17,-67.527,204.0,2.9,Antofagasta,"https://www.google.com/maps?q=-24.17,-67.527",200–500 km
-2025-09-17 22:57:1644 km al S de Socaire,2025-09-18 01:57:16,-23.977,-67.782,268.0,3.0,Antofagasta,"https://www.google.com/maps?q=-23.977,-67.782",200–500 km
-2025-09-17 22:35:4025 km al SO de Visviri,2025-09-18 01:35:40,-17.715,-69.686,170.0,3.3,Arica y Parinacota,"https://www.google.com/maps?q=-17.715,-69.686",100–200 km
-2025-09-17 20:09:1540 km al O de OllagÃ¼e,2025-09-17 23:09:15,-21.26,-68.634,121.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.26,-68.634",100–200 km
-2025-09-17 17:57:5268 km al NE de Los Andes,2025-09-17 20:57:52,-32.547,-69.954,122.0,2.9,Valparaíso,"https://www.google.com/maps?q=-32.547,-69.954",100–200 km
-2025-09-17 17:38:0878 km al S de Socaire,2025-09-17 20:38:08,-24.277,-68.046,241.0,2.6,Antofagasta,"https://www.google.com/maps?q=-24.277,-68.046",200–500 km
-2025-09-17 16:44:4339 km al NO de Mina Collahuasi,2025-09-17 19:44:43,-20.584,-68.927,98.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.584,-68.927",60–100 km
-2025-09-17 16:06:4828 km al O de Punitaqui,2025-09-17 19:06:48,-30.907,-71.538,76.0,3.3,Coquimbo,"https://www.google.com/maps?q=-30.907,-71.538",60–100 km
-2025-09-17 15:48:1470 km al O de San Antonio de los Cobres,2025-09-17 18:48:14,-24.379,-66.993,218.0,3.2,Antofagasta,"https://www.google.com/maps?q=-24.379,-66.993",200–500 km
-2025-09-17 15:27:5721 km al E de Antuco,2025-09-17 18:27:57,-37.412,-71.46,7.0,2.9,Biobío,"https://www.google.com/maps?q=-37.412,-71.46",<10 km
-2025-09-17 15:08:3627 km al SO de Mina Collahuasi,2025-09-17 18:08:36,-20.972,-68.868,103.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.972,-68.868",100–200 km
-2025-09-17 15:04:2838 km al NE de Mina Los Pelambres,2025-09-17 18:04:28,-31.559,-70.338,137.0,4.3,Coquimbo,"https://www.google.com/maps?q=-31.559,-70.338",100–200 km
-2025-09-17 14:19:27145 km al O de BahÃ­a Mansa,2025-09-17 17:19:27,-40.076,-75.302,20.0,3.2,La Araucanía,"https://www.google.com/maps?q=-40.076,-75.302",10–30 km
-2025-09-17 11:04:2240 km al E de CamiÃ±a,2025-09-17 14:04:22,-19.343,-69.043,6.0,2.6,Tarapacá,"https://www.google.com/maps?q=-19.343,-69.043",<10 km
-2025-09-17 09:03:48151 km al N de San Antonio de los Cobres,2025-09-17 12:03:48,-22.896,-66.598,245.0,2.8,Antofagasta,"https://www.google.com/maps?q=-22.896,-66.598",200–500 km
-2025-09-17 07:59:1932 km al S de Mina Collahuasi,2025-09-17 10:59:19,-21.114,-68.69,114.0,2.6,Tarapacá,"https://www.google.com/maps?q=-21.114,-68.69",100–200 km
-2025-09-17 07:42:2610 km al SE de Punitaqui,2025-09-17 10:42:26,-30.875,-71.166,63.0,2.7,Coquimbo,"https://www.google.com/maps?q=-30.875,-71.166",60–100 km
-2025-09-17 06:52:5021 km al S de CamiÃ±a,2025-09-17 09:52:50,-19.492,-69.371,91.0,3.9,Tarapacá,"https://www.google.com/maps?q=-19.492,-69.371",60–100 km
-2025-09-17 06:51:1844 km al SE de Socaire,2025-09-17 09:51:18,-23.864,-67.579,266.0,2.8,Antofagasta,"https://www.google.com/maps?q=-23.864,-67.579",200–500 km
-2025-09-17 05:16:1254 km al S de Baquedano,2025-09-17 08:16:12,-23.808,-69.713,72.0,3.9,Antofagasta,"https://www.google.com/maps?q=-23.808,-69.713",60–100 km
-2025-09-17 04:47:1358 km al NE de Calama,2025-09-17 07:47:13,-22.039,-68.616,130.0,3.2,Antofagasta,"https://www.google.com/maps?q=-22.039,-68.616",100–200 km
-2025-09-17 02:08:3078 km al N de Calama,2025-09-17 05:08:30,-21.805,-68.683,125.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.805,-68.683",100–200 km
-2025-09-17 01:56:3939 km al SO de Pichidangui,2025-09-17 04:56:39,-32.314,-71.888,29.0,3.4,Valparaíso,"https://www.google.com/maps?q=-32.314,-71.888",10–30 km
-2025-09-17 01:22:1425 km al NO de BahÃ­a Mansa,2025-09-17 04:22:14,-40.385,-73.871,9.0,2.9,La Araucanía,"https://www.google.com/maps?q=-40.385,-73.871",<10 km
-2025-09-16 23:59:4377 km al S de Socaire,2025-09-17 02:59:43,-24.283,-67.967,262.0,3.0,Antofagasta,"https://www.google.com/maps?q=-24.283,-67.967",200–500 km
-2025-09-16 20:53:1045 km al NE de Mejillones,2025-09-16 23:53:10,-22.755,-70.227,47.0,4.2,Antofagasta,"https://www.google.com/maps?q=-22.755,-70.227",30–60 km
-2025-09-16 19:58:1472 km al O de Mina La Escondida,2025-09-16 22:58:14,-24.212,-69.761,79.0,2.5,Antofagasta,"https://www.google.com/maps?q=-24.212,-69.761",60–100 km
-2025-09-16 19:38:51130 km al NE de Socaire,2025-09-16 22:38:51,-22.828,-66.924,269.0,2.8,Antofagasta,"https://www.google.com/maps?q=-22.828,-66.924",200–500 km
-2025-09-16 19:18:0867 km al SO de San Pedro de Atacama,2025-09-16 22:18:08,-23.264,-68.743,106.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.264,-68.743",100–200 km
-2025-09-16 18:22:0636 km al S de Mina Collahuasi,2025-09-16 21:22:06,-21.146,-68.667,135.0,3.5,Tarapacá,"https://www.google.com/maps?q=-21.146,-68.667",100–200 km
-2025-09-16 18:01:2527 km al SE de Patache,2025-09-16 21:01:25,-20.972,-70.012,33.0,3.0,Tarapacá,"https://www.google.com/maps?q=-20.972,-70.012",30–60 km
-2025-09-16 16:42:2539 km al N de Calama,2025-09-16 19:42:25,-22.125,-68.846,118.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.125,-68.846",100–200 km
-2025-09-16 16:30:0331 km al NO de Quintero,2025-09-16 19:30:03,-32.591,-71.772,34.0,2.7,Valparaíso,"https://www.google.com/maps?q=-32.591,-71.772",30–60 km
-2025-09-16 16:24:4840 km al E de CamiÃ±a,2025-09-16 19:24:48,-19.349,-69.051,8.0,3.8,Tarapacá,"https://www.google.com/maps?q=-19.349,-69.051",<10 km
-2025-09-16 13:00:3887 km al NE de Socaire,2025-09-16 16:00:38,-23.092,-67.234,251.0,3.5,Antofagasta,"https://www.google.com/maps?q=-23.092,-67.234",200–500 km
-2025-09-16 11:56:3540 km al N de Calama,2025-09-16 14:56:35,-22.129,-68.818,110.0,3.3,Antofagasta,"https://www.google.com/maps?q=-22.129,-68.818",100–200 km
-2025-09-16 11:06:2513 km al NE de CamiÃ±a,2025-09-16 14:06:25,-19.223,-69.341,111.0,3.0,Tarapacá,"https://www.google.com/maps?q=-19.223,-69.341",100–200 km
-2025-09-16 10:33:2523 km al N de Quillagua,2025-09-16 13:33:25,-21.459,-69.599,70.0,3.4,Antofagasta,"https://www.google.com/maps?q=-21.459,-69.599",60–100 km
-2025-09-16 08:49:0122 km al E de Putre,2025-09-16 11:49:01,-18.224,-69.353,145.0,3.1,Arica y Parinacota,"https://www.google.com/maps?q=-18.224,-69.353",100–200 km
-2025-09-16 08:37:4822 km al O de OllagÃ¼e,2025-09-16 11:37:48,-21.199,-68.465,132.0,3.2,Tarapacá,"https://www.google.com/maps?q=-21.199,-68.465",100–200 km
-2025-09-16 07:18:2053 km al SO de OllagÃ¼e,2025-09-16 10:18:20,-21.559,-68.614,125.0,3.3,Antofagasta,"https://www.google.com/maps?q=-21.559,-68.614",100–200 km
-2025-09-16 06:49:3632 km al N de Paposo,2025-09-16 09:49:36,-24.723,-70.429,55.0,3.2,Antofagasta,"https://www.google.com/maps?q=-24.723,-70.429",30–60 km
-2025-09-16 05:58:2514 km al NO de Rancagua,2025-09-16 08:58:25,-34.102,-70.861,72.0,3.1,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-34.102,-70.861",60–100 km
-2025-09-16 04:46:0116 km al NE de Calama,2025-09-16 07:46:01,-22.348,-68.854,120.0,2.7,Antofagasta,"https://www.google.com/maps?q=-22.348,-68.854",100–200 km
-2025-09-16 02:00:1075 km al SO de OllagÃ¼e,2025-09-16 05:00:10,-21.792,-68.644,107.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.792,-68.644",100–200 km
-2025-09-16 01:39:5267 km al E de Mina La Escondida,2025-09-16 04:39:52,-24.201,-68.4,267.0,3.3,Antofagasta,"https://www.google.com/maps?q=-24.201,-68.4",200–500 km
-2025-09-16 01:28:3438 km al O de Socaire,2025-09-16 04:28:34,-23.476,-68.246,129.0,3.3,Antofagasta,"https://www.google.com/maps?q=-23.476,-68.246",100–200 km
-2025-09-16 01:08:2827 km al S de Mina Collahuasi,2025-09-16 04:08:28,-21.072,-68.64,137.0,3.1,Tarapacá,"https://www.google.com/maps?q=-21.072,-68.64",100–200 km
-2025-09-15 22:52:5630 km al O de Patache,2025-09-16 01:52:56,-20.89,-70.482,50.0,2.5,Tarapacá,"https://www.google.com/maps?q=-20.89,-70.482",30–60 km
-2025-09-15 22:37:1749 km al N de Quillagua,2025-09-16 01:37:17,-21.221,-69.545,67.0,2.7,Tarapacá,"https://www.google.com/maps?q=-21.221,-69.545",60–100 km
-2025-09-15 20:21:4652 km al SO de OllagÃ¼e,2025-09-15 23:21:46,-21.632,-68.499,124.0,4.2,Antofagasta,"https://www.google.com/maps?q=-21.632,-68.499",100–200 km
-2025-09-15 20:03:1061 km al SO de Patache,2025-09-15 23:03:10,-21.309,-70.452,48.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.309,-70.452",30–60 km
-2025-09-15 19:40:1875 km al NE de Calama,2025-09-15 22:40:18,-21.856,-68.634,121.0,2.6,Antofagasta,"https://www.google.com/maps?q=-21.856,-68.634",100–200 km
-2025-09-15 18:12:5746 km al SO de Mina Collahuasi,2025-09-15 21:12:57,-21.175,-68.899,120.0,2.5,Tarapacá,"https://www.google.com/maps?q=-21.175,-68.899",100–200 km
-2025-09-15 17:56:1349 km al NE de Pica,2025-09-15 20:56:13,-20.09,-69.134,103.0,4.9,Tarapacá,"https://www.google.com/maps?q=-20.09,-69.134",100–200 km
-2025-09-15 16:46:4038 km al E de CamiÃ±a,2025-09-15 19:46:40,-19.302,-69.069,3.0,3.0,Tarapacá,"https://www.google.com/maps?q=-19.302,-69.069",<10 km
-2025-09-15 16:13:5828 km al NO de Mina Collahuasi,2025-09-15 19:13:58,-20.675,-68.869,103.0,3.2,Tarapacá,"https://www.google.com/maps?q=-20.675,-68.869",100–200 km
-2025-09-15 15:19:2058 km al N de Calama,2025-09-15 18:19:20,-21.956,-68.829,117.0,3.1,Antofagasta,"https://www.google.com/maps?q=-21.956,-68.829",100–200 km
-2025-09-15 11:33:5346 km al SE de Pica,2025-09-15 14:33:53,-20.857,-69.124,106.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.857,-69.124",100–200 km
-2025-09-15 10:08:1521 km al NE de Los Andes,2025-09-15 13:08:15,-32.742,-70.396,108.0,3.0,Valparaíso,"https://www.google.com/maps?q=-32.742,-70.396",100–200 km
-2025-09-15 10:03:1523 km al S de La Serena,2025-09-15 13:03:15,-30.099,-71.32,53.0,3.6,Coquimbo,"https://www.google.com/maps?q=-30.099,-71.32",30–60 km
-2025-09-15 08:20:4158 km al S de Putre,2025-09-15 11:20:41,-18.686,-69.362,107.0,2.9,Arica y Parinacota,"https://www.google.com/maps?q=-18.686,-69.362",100–200 km
-2025-09-15 07:59:3922 km al SO de OllagÃ¼e,2025-09-15 10:59:39,-21.367,-68.401,126.0,3.1,Antofagasta,"https://www.google.com/maps?q=-21.367,-68.401",100–200 km
-2025-09-15 07:34:4317 km al O de El Tabo,2025-09-15 10:34:43,-33.474,-71.851,40.0,3.8,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-33.474,-71.851",30–60 km
-2025-09-15 02:50:3158 km al NO de Quillagua,2025-09-15 05:50:31,-21.291,-69.925,45.0,3.1,Tarapacá,"https://www.google.com/maps?q=-21.291,-69.925",30–60 km
-2025-09-15 02:13:5534 km al NE de Paposo,2025-09-15 05:13:55,-24.843,-70.183,51.0,2.5,Antofagasta,"https://www.google.com/maps?q=-24.843,-70.183",30–60 km
-2025-09-15 01:23:1565 km al O de Canela Baja,2025-09-15 04:23:15,-31.502,-72.135,34.0,3.2,Coquimbo,"https://www.google.com/maps?q=-31.502,-72.135",30–60 km
-2025-09-15 00:56:2047 km al O de Mina Collahuasi,2025-09-15 03:56:20,-20.896,-69.102,113.0,3.1,Tarapacá,"https://www.google.com/maps?q=-20.896,-69.102",100–200 km
-2025-09-15 00:34:1936 km al E de Lebu,2025-09-15 03:34:19,-37.668,-73.255,12.0,2.6,Biobío,"https://www.google.com/maps?q=-37.668,-73.255",10–30 km
-2025-09-14 23:03:2141 km al S de ChaÃ±aral,2025-09-15 02:03:21,-26.694,-70.751,43.0,3.1,Atacama,"https://www.google.com/maps?q=-26.694,-70.751",30–60 km
-2025-09-14 21:40:0434 km al NE de Caleta El Cobre,2025-09-15 00:40:04,-24.03,-70.293,30.0,3.7,Antofagasta,"https://www.google.com/maps?q=-24.03,-70.293",10–30 km
-2025-09-14 18:41:4930 km al SE de CamiÃ±a,2025-09-14 21:41:49,-19.531,-69.253,8.0,3.5,Tarapacá,"https://www.google.com/maps?q=-19.531,-69.253",<10 km
-2025-09-14 11:32:2428 km al O de Pichidangui,2025-09-14 14:32:24,-32.119,-71.822,30.0,4.1,Valparaíso,"https://www.google.com/maps?q=-32.119,-71.822",10–30 km
-2025-09-14 10:00:3719 km al NO de VichuquÃ©n,2025-09-14 13:00:37,-34.745,-72.112,33.0,2.7,Libertador B. O'Higgins,"https://www.google.com/maps?q=-34.745,-72.112",30–60 km
-2025-09-14 01:34:0313 km al O de Quintero,2025-09-14 04:34:03,-32.774,-71.661,31.0,3.1,Valparaíso,"https://www.google.com/maps?q=-32.774,-71.661",30–60 km
-2025-09-14 01:00:1124 km al SE de Iquique,2025-09-14 04:00:11,-20.403,-70.045,32.0,3.1,Tarapacá,"https://www.google.com/maps?q=-20.403,-70.045",30–60 km
-2025-09-14 00:03:5177 km al S de Socaire,2025-09-14 03:03:51,-24.254,-67.688,222.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.254,-67.688",200–500 km
-2025-09-13 23:58:47133 km al NE de Socaire,2025-09-14 02:58:47,-22.96,-66.785,268.0,4.8,Antofagasta,"https://www.google.com/maps?q=-22.96,-66.785",200–500 km
-2025-09-13 22:25:2145 km al O de Mina Collahuasi,2025-09-14 01:25:21,-20.827,-69.09,106.0,2.6,Tarapacá,"https://www.google.com/maps?q=-20.827,-69.09",100–200 km
-2025-09-13 22:23:5020 km al SO de OllagÃ¼e,2025-09-14 01:23:50,-21.327,-68.418,121.0,2.6,Antofagasta,"https://www.google.com/maps?q=-21.327,-68.418",100–200 km
-2025-09-13 20:15:3324 km al SO de Navidad,2025-09-13 23:15:33,-34.147,-71.955,36.0,2.6,Región Metropolitana de Santiago,"https://www.google.com/maps?q=-34.147,-71.955",30–60 km
-2025-09-13 18:16:0445 km al SO de Patache,2025-09-13 21:16:04,-21.151,-70.432,56.0,3.0,Tarapacá,"https://www.google.com/maps?q=-21.151,-70.432",30–60 km
-2025-09-13 17:03:5729 km al S de Mina Collahuasi,2025-09-13 20:03:57,-21.082,-68.62,124.0,3.0,Tarapacá,"https://www.google.com/maps?q=-21.082,-68.62",100–200 km
-2025-09-13 12:36:3467 km al SE de Socaire,2025-09-13 15:36:34,-24.113,-67.569,202.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.113,-67.569",200–500 km
-2025-09-13 12:10:3643 km al NE de Tacna,2025-09-13 15:10:36,-17.707,-70.006,153.0,4.2,Arica y Parinacota,"https://www.google.com/maps?q=-17.707,-70.006",100–200 km
-2025-09-13 11:45:4718 km al SO de Visviri,2025-09-13 14:45:47,-17.72,-69.592,150.0,3.9,Arica y Parinacota,"https://www.google.com/maps?q=-17.72,-69.592",100–200 km
-2025-09-13 09:22:0710 km al N de Pichidangui,2025-09-13 12:22:07,-32.043,-71.538,40.0,3.5,Valparaíso,"https://www.google.com/maps?q=-32.043,-71.538",30–60 km
-2025-09-13 09:04:0456 km al O de San Pedro de Atacama,2025-09-13 12:04:04,-23.103,-68.707,121.0,3.2,Antofagasta,"https://www.google.com/maps?q=-23.103,-68.707",100–200 km
-2025-09-13 08:16:5785 km al SE de Socaire,2025-09-13 11:16:57,-24.189,-67.368,223.0,4.4,Antofagasta,"https://www.google.com/maps?q=-24.189,-67.368",200–500 km
-2025-09-13 01:31:0243 km al S de Mina Collahuasi,2025-09-13 04:31:02,-21.209,-68.727,105.0,2.9,Tarapacá,"https://www.google.com/maps?q=-21.209,-68.727",100–200 km
-2025-09-12 23:16:595 km al NE de Pichidangui,2025-09-13 02:16:59,-32.107,-71.486,33.0,2.7,Valparaíso,"https://www.google.com/maps?q=-32.107,-71.486",30–60 km
-2025-09-12 21:29:3821 km al SE de Baquedano,2025-09-13 00:29:38,-23.428,-69.661,61.0,3.2,Antofagasta,"https://www.google.com/maps?q=-23.428,-69.661",60–100 km
-2025-09-12 20:49:4076 km al SE de Socaire,2025-09-12 23:49:40,-24.176,-67.509,223.0,4.5,Antofagasta,"https://www.google.com/maps?q=-24.176,-67.509",200–500 km
-2025-09-12 19:38:1312 km al SO de Parque Fray Jorge,2025-09-12 22:38:13,-30.76,-71.734,28.0,2.7,Coquimbo,"https://www.google.com/maps?q=-30.76,-71.734",10–30 km
-2025-09-12 17:03:3422 km al E de CuricÃ³,2025-09-12 20:03:34,-35.022,-70.998,90.0,3.3,Maule,"https://www.google.com/maps?q=-35.022,-70.998",60–100 km
-2025-09-12 16:26:325 km al S de Patache,2025-09-12 19:26:32,-20.854,-70.201,40.0,2.9,Tarapacá,"https://www.google.com/maps?q=-20.854,-70.201",30–60 km
-2025-09-12 15:51:1328 km al E de Pica,2025-09-12 18:51:13,-20.497,-69.065,96.0,2.8,Tarapacá,"https://www.google.com/maps?q=-20.497,-69.065",60–100 km
-2025-09-12 07:11:0570 km al O de Parque Fray Jorge,2025-09-12 10:11:05,-30.625,-72.417,31.0,3.2,Coquimbo,"https://www.google.com/maps?q=-30.625,-72.417",30–60 km
-2025-09-12 05:13:0157 km al SO de OllagÃ¼e,2025-09-12 08:13:01,-21.661,-68.55,105.0,3.7,Antofagasta,"https://www.google.com/maps?q=-21.661,-68.55",100–200 km
-2025-09-12 04:02:1263 km al NE de Calama,2025-09-12 07:02:12,-22.033,-68.546,128.0,3.4,Antofagasta,"https://www.google.com/maps?q=-22.033,-68.546",100–200 km
-2025-09-12 02:33:319 km al NE de Quintero,2025-09-12 05:33:31,-32.737,-71.444,67.0,2.6,Valparaíso,"https://www.google.com/maps?q=-32.737,-71.444",60–100 km
-2025-09-12 02:23:4188 km al O de Canela Baja,2025-09-12 05:23:41,-31.236,-72.359,34.0,3.1,Coquimbo,"https://www.google.com/maps?q=-31.236,-72.359",30–60 km
-2025-09-12 01:30:0772 km al SE de Socaire,2025-09-12 04:30:07,-24.041,-67.388,210.0,4.4,Antofagasta,"https://www.google.com/maps?q=-24.041,-67.388",200–500 km
-2025-09-12 01:09:2630 km al O de Canela Baja,2025-09-12 04:09:26,-31.329,-71.767,33.0,3.2,Coquimbo,"https://www.google.com/maps?q=-31.329,-71.767",30–60 km
-2025-09-12 00:23:4912 km al SE de Los Vilos,2025-09-12 03:23:49,-31.99,-71.431,47.0,3.1,Coquimbo,"https://www.google.com/maps?q=-31.99,-71.431",30–60 km
-2025-09-11 22:38:40116 km al NE de Socaire,2025-09-12 01:38:40,-22.95,-66.998,244.0,4.7,Antofagasta,"https://www.google.com/maps?q=-22.95,-66.998",200–500 km
-2025-09-11 21:57:0535 km al SE de Cauquenes,2025-09-12 00:57:05,-36.194,-72.051,62.0,3.5,Maule,"https://www.google.com/maps?q=-36.194,-72.051",60–100 km
-2025-09-11 21:44:3872 km al S de OllagÃ¼e,2025-09-12 00:44:38,-21.836,-68.471,125.0,2.7,Antofagasta,"https://www.google.com/maps?q=-21.836,-68.471",100–200 km
-2025-09-11 21:16:2333 km al NE de Putre,2025-09-12 00:16:23,-17.934,-69.404,147.0,3.4,Arica y Parinacota,"https://www.google.com/maps?q=-17.934,-69.404",100–200 km
-2025-09-11 21:12:1449 km al O de San Pedro de Atacama,2025-09-12 00:12:14,-22.945,-68.68,110.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.945,-68.68",100–200 km
-2025-09-11 19:53:2447 km al SE de Quillagua,2025-09-11 22:53:24,-21.97,-69.233,82.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.97,-69.233",60–100 km
-2025-09-11 15:23:1752 km al SO de OllagÃ¼e,2025-09-11 18:23:17,-21.583,-68.57,140.0,4.0,Antofagasta,"https://www.google.com/maps?q=-21.583,-68.57",100–200 km
-2025-09-11 14:06:1677 km al E de Linares,2025-09-11 17:06:16,-36.149,-70.828,4.0,3.0,Maule,"https://www.google.com/maps?q=-36.149,-70.828",<10 km
-2025-09-11 12:22:5430 km al SE de Pica,2025-09-11 15:22:54,-20.733,-69.198,108.0,3.4,Tarapacá,"https://www.google.com/maps?q=-20.733,-69.198",100–200 km
-2025-09-11 10:32:4140 km al N de San Pedro de Atacama,2025-09-11 13:32:41,-22.57,-68.105,187.0,2.7,Antofagasta,"https://www.google.com/maps?q=-22.57,-68.105",100–200 km
-2025-09-11 05:59:0268 km al NE de Pica,2025-09-11 08:59:02,-20.003,-68.938,107.0,2.9,Tarapacá,"https://www.google.com/maps?q=-20.003,-68.938",100–200 km
-2025-09-11 03:20:3293 km al SE de Socaire,2025-09-11 06:20:32,-24.198,-67.26,206.0,3.2,Antofagasta,"https://www.google.com/maps?q=-24.198,-67.26",200–500 km
-2025-09-11 03:02:4549 km al SE de CuricÃ³,2025-09-11 06:02:45,-35.322,-70.898,106.0,2.8,Maule,"https://www.google.com/maps?q=-35.322,-70.898",100–200 km
-2025-09-11 01:47:3775 km al E de Linares,2025-09-11 04:47:37,-36.116,-70.832,35.0,2.8,Maule,"https://www.google.com/maps?q=-36.116,-70.832",30–60 km
-2025-09-10 23:55:0757 km al SO de Arica,2025-09-11 02:55:07,-18.735,-70.788,24.0,2.5,Arica y Parinacota,"https://www.google.com/maps?q=-18.735,-70.788",10–30 km
-2025-09-10 23:25:3831 km al SE de San Pedro de Atacama,2025-09-11 02:25:38,-23.167,-68.054,153.0,2.8,Antofagasta,"https://www.google.com/maps?q=-23.167,-68.054",100–200 km
-2025-09-10 23:24:1172 km al SE de Socaire,2025-09-11 02:24:11,-24.166,-67.569,259.0,3.5,Antofagasta,"https://www.google.com/maps?q=-24.166,-67.569",200–500 km
-2025-09-10 21:51:2689 km al O de San Antonio de los Cobres,2025-09-11 00:51:26,-24.209,-67.194,240.0,3.9,Antofagasta,"https://www.google.com/maps?q=-24.209,-67.194",200–500 km
-2025-09-10 20:25:4736 km al N de Cuya,2025-09-10 23:25:47,-18.843,-70.22,54.0,2.5,Arica y Parinacota,"https://www.google.com/maps?q=-18.843,-70.22",30–60 km
-2025-09-10 18:54:0935 km al S de Calama,2025-09-10 21:54:09,-22.779,-68.883,120.0,2.9,Antofagasta,"https://www.google.com/maps?q=-22.779,-68.883",100–200 km
-2025-09-10 17:05:5446 km al SO de San Pedro de Atacama,2025-09-10 20:05:54,-23.166,-68.565,132.0,2.5,Antofagasta,"https://www.google.com/maps?q=-23.166,-68.565",100–200 km
-2025-09-10 16:30:4150 km al E de Los Andes,2025-09-10 19:30:41,-32.769,-70.071,108.0,3.1,Valparaíso,"https://www.google.com/maps?q=-32.769,-70.071",100–200 km
-2025-09-10 13:41:4287 km al SE de Socaire,2025-09-10 16:41:42,-24.106,-67.241,231.0,3.9,Antofagasta,"https://www.google.com/maps?q=-24.106,-67.241",200–500 km
-2025-09-10 13:02:2146 km al SO de Mina Collahuasi,2025-09-10 16:02:21,-21.031,-69.045,113.0,3.8,Tarapacá,"https://www.google.com/maps?q=-21.031,-69.045",100–200 km
-2025-09-10 11:49:5625 km al SO de Patache,2025-09-10 14:49:56,-20.951,-70.394,55.0,3.6,Tarapacá,"https://www.google.com/maps?q=-20.951,-70.394",30–60 km
-2025-09-10 10:46:4145 km al SE de Mina Los Pelambres,2025-09-10 13:46:41,-32.159,-70.319,130.0,3.3,Valparaíso,"https://www.google.com/maps?q=-32.159,-70.319",100–200 km
-2025-09-10 09:11:11132 km al O de TirÃºa,2025-09-10 12:11:11,-38.765,-74.912,28.0,3.4,La Araucanía,"https://www.google.com/maps?q=-38.765,-74.912",10–30 km
-2025-09-10 07:27:0224 km al SO de Pica,2025-09-10 10:27:02,-20.688,-69.424,101.0,3.4,Tarapacá,"https://www.google.com/maps?q=-20.688,-69.424",100–200 km
-2025-09-10 05:39:236 km al E de Parque Fray Jorge,2025-09-10 08:39:23,-30.646,-71.627,31.0,2.8,Coquimbo,"https://www.google.com/maps?q=-30.646,-71.627",30–60 km
-2025-09-10 04:47:0884 km al NE de San Pedro de Atacama,2025-09-10 07:47:08,-22.296,-67.746,184.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.296,-67.746",100–200 km
-2025-09-10 04:01:1224 km al SO de OllagÃ¼e,2025-09-10 07:01:12,-21.391,-68.406,123.0,2.5,Antofagasta,"https://www.google.com/maps?q=-21.391,-68.406",100–200 km
-2025-09-10 02:00:3027 km al O de Quintero,2025-09-10 05:00:30,-32.697,-71.8,20.0,2.5,Valparaíso,"https://www.google.com/maps?q=-32.697,-71.8",10–30 km
-2025-09-10 00:13:2267 km al S de Socaire,2025-09-10 03:13:22,-24.195,-67.867,261.0,3.3,Antofagasta,"https://www.google.com/maps?q=-24.195,-67.867",200–500 km
-2025-09-10 00:02:2583 km al O de San Juan,2025-09-10 03:02:25,-31.24,-69.321,197.0,2.5,Coquimbo,"https://www.google.com/maps?q=-31.24,-69.321",100–200 km
-2025-09-09 23:32:5317 km al SO de Pichidangui,2025-09-10 02:32:53,-32.244,-71.664,46.0,3.2,Valparaíso,"https://www.google.com/maps?q=-32.244,-71.664",30–60 km
-2025-09-09 22:30:2243 km al NO de San Pedro de Atacama,2025-09-10 01:30:22,-22.682,-68.528,150.0,2.5,Antofagasta,"https://www.google.com/maps?q=-22.682,-68.528",100–200 km
-2025-09-09 22:30:0238 km al S de San Pedro de Atacama,2025-09-10 01:30:02,-23.254,-68.109,207.0,3.0,Antofagasta,"https://www.google.com/maps?q=-23.254,-68.109",200–500 km
+fecha_local,fecha_utc,latitud,longitud,profundidad,magnitud
+2025-10-14 09:42:5828 km al E de Sierra Gorda,2025-10-14 12:42:58,-22.842-69.048,,110 km,3.8 Ml
+2025-10-14 09:19:1837 km al S de Calama,2025-10-14 12:19:18,-22.798-68.850,,107 km,2.7 Ml
+2025-10-14 08:53:13162 km al NE de San Pedro de Atacama,2025-10-14 11:53:13,-22.194-66.834,,20 km,3.2 Ml
+2025-10-14 08:32:4716 km al S de ChaÃ±aral,2025-10-14 11:32:47,-26.485-70.581,,33 km,2.5 Ml
+2025-10-14 05:36:5037 km al NO de Mina Collahuasi,2025-10-14 08:36:50,-20.547-68.851,,110 km,3.6 Ml
+2025-10-14 05:18:4224 km al NO de Arica,2025-10-14 08:18:42,-18.363-70.518,,62 km,2.9 Ml
+2025-10-14 04:17:3229 km al NO de Tongoy,2025-10-14 07:17:32,-30.027-71.647,,36 km,4.0 Ml
+2025-10-14 02:51:3648 km al NE de Calama,2025-10-14 05:51:36,-22.144-68.621,,100 km,2.8 Ml
+2025-10-14 01:43:3672 km al NE de Calama,2025-10-14 04:43:36,-21.884-68.628,,110 km,4.8 Mw
+2025-10-14 01:18:1624 km al O de OllagÃ¼e,2025-10-14 04:18:16,-21.237-68.480,,124 km,2.5 Ml
+2025-10-13 23:31:2732 km al S de Sierra Gorda,2025-10-14 02:31:27,-23.173-69.275,,75 km,2.8 Ml
+2025-10-13 22:56:1653 km al SE de Socaire,2025-10-14 01:56:16,-23.959-67.556,,245 km,2.9 Ml
+2025-10-13 22:18:1627 km al NO de BahÃ­a Mansa,2025-10-14 01:18:16,-40.389-73.919,,38 km,2.6 Ml
+2025-10-13 21:27:4372 km al SE de Socaire,2025-10-14 00:27:43,-24.150-67.543,,202 km,3.3 Ml
+2025-10-13 21:11:548 km al SO de Mina La Escondida,2025-10-14 00:11:54,-24.307-69.123,,94 km,2.7 Ml
+2025-10-13 20:41:4042 km al SO de Mina Collahuasi,2025-10-13 23:41:40,-21.111-68.930,,109 km,3.2 Ml
+2025-10-13 20:14:1544 km al SO de Mina Collahuasi,2025-10-13 23:14:15,-21.108-68.953,,112 km,4.0 Ml
+2025-10-13 20:08:0223 km al O de OllagÃ¼e,2025-10-13 23:08:02,-21.212-68.473,,128 km,2.8 Ml
+2025-10-13 18:09:4937 km al N de Punta de Choros,2025-10-13 21:09:49,-28.926-71.375,,25 km,2.6 Ml
+2025-10-13 14:05:455 km al SE de Parque Fray Jorge,2025-10-13 17:05:45,-30.697-71.642,,32 km,3.1 Ml
+2025-10-13 13:22:57120 km al O de Parque Fray Jorge,2025-10-13 16:22:57,-30.338-72.874,,27 km,3.7 Ml
+2025-10-13 11:59:18195 km al O de Tocopilla,2025-10-13 14:59:18,-22.051-72.097,,10 km,2.8 Ml
+2025-10-13 11:11:3641 km al S de Mina Collahuasi,2025-10-13 14:11:36,-21.186-68.760,,114 km,2.5 Ml
+2025-10-13 08:45:5663 km al SO de Socaire,2025-10-13 11:45:56,-24.032-68.282,,280 km,2.6 Ml
+2025-10-13 08:23:0125 km al N de ConcepciÃ³n,2025-10-13 11:23:01,-36.605-73.030,,45 km,2.6 Ml
+2025-10-13 07:52:4460 km al N de Calama,2025-10-13 10:52:44,-21.963-68.726,,116 km,4.2 Ml
+2025-10-13 07:09:1224 km al NE de CuricÃ³,2025-10-13 10:09:12,-34.875-71.009,,20 km,2.5 Ml
+2025-10-13 06:49:1714 km al NO de Calama,2025-10-13 09:49:17,-22.358-68.987,,100 km,2.7 Ml
+2025-10-13 05:46:4448 km al NE de Monte Patria,2025-10-13 08:46:44,-30.476-70.520,,24 km,2.6 Ml
+2025-10-13 05:34:4537 km al SE de Rancagua,2025-10-13 08:34:45,-34.365-70.419,,126 km,2.6 Ml
+2025-10-13 04:05:052 km al S de Parque Fray Jorge,2025-10-13 07:05:05,-30.680-71.687,,34 km,3.2 Ml
+2025-10-13 04:03:3261 km al NE de Socaire,2025-10-13 07:03:32,-23.134-67.559,,272 km,2.7 Ml
+2025-10-12 23:50:206 km al E de Parque Fray Jorge,2025-10-13 02:50:20,-30.666-71.620,,34 km,2.6 Ml
+2025-10-12 23:32:3052 km al NE de Calama,2025-10-13 02:32:30,-22.061-68.690,,121 km,3.2 Ml
+2025-10-12 23:24:2181 km al NE de Socaire,2025-10-13 02:24:21,-23.217-67.205,,254 km,3.0 Ml
+2025-10-12 23:08:206 km al E de Parque Fray Jorge,2025-10-13 02:08:20,-30.685-71.623,,31 km,3.2 Ml
+2025-10-12 23:07:0387 km al SE de Socaire,2025-10-13 02:07:03,-24.137-67.283,,242 km,4.0 Ml
+2025-10-12 23:01:322 km al E de Parque Fray Jorge,2025-10-13 02:01:32,-30.664-71.661,,34 km,2.5 Ml
+2025-10-12 22:44:575 km al E de Parque Fray Jorge,2025-10-13 01:44:57,-30.675-71.633,,30 km,2.6 Ml
+2025-10-12 22:28:064 km al SE de Parque Fray Jorge,2025-10-13 01:28:06,-30.698-71.666,,33 km,4.9 Mw
+2025-10-12 22:23:238 km al O de Parque Fray Jorge,2025-10-13 01:23:23,-30.680-71.768,,39 km,2.7 Ml
+2025-10-12 22:11:332 km al SE de Parque Fray Jorge,2025-10-13 01:11:33,-30.673-71.668,,33 km,4.4 Ml
+2025-10-12 21:49:25154 km al O de BahÃ­a Mansa,2025-10-13 00:49:25,-40.811-75.538,,17 km,3.2 Ml
+2025-10-12 21:28:5248 km al NE de CamiÃ±a,2025-10-13 00:28:52,-18.908-69.257,,115 km,2.5 Ml
+2025-10-12 20:18:5561 km al NE de Calama,2025-10-12 23:18:55,-21.990-68.640,,113 km,2.6 Ml
+2025-10-12 19:51:0786 km al NE de San Pedro de Atacama,2025-10-12 22:51:07,-22.212-67.864,,191 km,2.6 Ml
+2025-10-12 19:46:5335 km al O de OllagÃ¼e,2025-10-12 22:46:53,-21.248-68.595,,121 km,2.9 Ml
+2025-10-12 19:08:5745 km al SO de Mina Collahuasi,2025-10-12 22:08:57,-21.123-68.947,,108 km,2.6 Ml
+2025-10-12 19:02:5087 km al E de CopiapÃ³,2025-10-12 22:02:50,-27.433-69.451,,105 km,3.0 Ml
+2025-10-12 18:23:3837 km al NE de Calama,2025-10-12 21:23:38,-22.172-68.764,,118 km,2.6 Ml
+2025-10-12 17:15:1478 km al SE de Socaire,2025-10-12 20:15:14,-24.156-67.432,,219 km,3.4 Ml
+2025-10-12 16:30:4332 km al O de Pichilemu,2025-10-12 19:30:43,-34.332-72.358,,34 km,3.3 Ml
+2025-10-12 14:28:3868 km al O de Arica,2025-10-12 17:28:38,-18.638-70.944,,28 km,3.2 Ml
+2025-10-12 14:06:47152 km al O de Tocopilla,2025-10-12 17:06:47,-21.587-71.565,,30 km,2.9 Ml
+2025-10-12 13:42:4052 km al E de Los Andes,2025-10-12 16:42:40,-32.640-70.094,,117 km,4.4 Ml
+2025-10-12 10:49:2640 km al O de Coronel,2025-10-12 13:49:26,-36.933-73.582,,10 km,2.5 Ml
+2025-10-12 10:38:45103 km al NE de Paihuano,2025-10-12 13:38:45,-29.474-69.667,,135 km,3.0 Ml
+2025-10-12 09:23:3335 km al O de Mina La Escondida,2025-10-12 12:23:33,-24.348-69.394,,88 km,3.3 Ml
+2025-10-12 08:43:4325 km al O de OllagÃ¼e,2025-10-12 11:43:43,-21.268-68.489,,135 km,3.2 Ml
+2025-10-12 08:19:4419 km al O de Ovalle,2025-10-12 11:19:44,-30.592-71.401,,48 km,3.5 Ml
+2025-10-12 07:44:48110 km al NO de ConstituciÃ³n,2025-10-12 10:44:48,-34.625-73.257,,31 km,2.9 Ml
+2025-10-12 06:49:0636 km al S de CamiÃ±a,2025-10-12 09:49:06,-19.636-69.422,,101 km,2.8 Ml
+2025-10-12 06:13:0844 km al E de Pisagua,2025-10-12 09:13:08,-19.556-69.800,,21 km,2.6 Ml
+2025-10-12 05:45:5361 km al SE de Socaire,2025-10-12 08:45:53,-23.891-67.384,,262 km,3.0 Ml
+2025-10-12 03:50:0129 km al SO de Canela Baja,2025-10-12 06:50:01,-31.544-71.715,,27 km,3.0 Ml
+2025-10-12 03:36:4475 km al NE de Socaire,2025-10-12 06:36:44,-23.164-67.316,,278 km,2.9 Ml
+2025-10-12 03:00:4066 km al S de Socaire,2025-10-12 06:00:40,-24.179-67.901,,236 km,2.8 Ml
+2025-10-12 02:01:3886 km al NE de Socaire,2025-10-12 05:01:38,-23.115-67.226,,259 km,3.0 Ml
+2025-10-12 01:32:0434 km al S de Parque Fray Jorge,2025-10-12 04:32:04,-30.954-71.587,,36 km,3.3 Ml
+2025-10-12 01:27:4810 km al SE de Pica,2025-10-12 04:27:48,-20.566-69.270,,91 km,2.5 Ml
+2025-10-12 01:21:0019 km al SO de Calama,2025-10-12 04:21:00,-22.586-69.069,,92 km,2.6 Ml
+2025-10-12 00:56:1063 km al SE de Socaire,2025-10-12 03:56:10,-24.107-67.649,,237 km,3.0 Ml
+2025-10-12 00:16:0392 km al E de Mina Los Pelambres,2025-10-12 03:16:03,-32.171-69.697,,22 km,2.6 Ml
+2025-10-11 23:21:1595 km al NE de El Salvador,2025-10-12 02:21:15,-25.548-69.083,,92 km,2.7 Ml
+2025-10-11 22:21:3663 km al S de CamiÃ±a,2025-10-12 01:21:36,-19.846-69.215,,92 km,2.6 Ml
+2025-10-11 21:54:4443 km al SE de Pica,2025-10-12 00:54:44,-20.845-69.169,,106 km,3.4 Ml
+2025-10-11 17:53:5415 km al O de Alto del Carmen,2025-10-11 20:53:54,-28.816-70.625,,76 km,3.6 Ml
+2025-10-11 16:05:30242 km al NO de Base Frei,2025-10-11 19:05:30,-60.110-60.250,,10 km,4.4 Ml
+2025-10-11 15:29:31257 km al NO de Base Frei,2025-10-11 18:29:31,-60.440-62.110,,10 km,4.7 Ml
+2025-10-11 12:42:4550 km al O de Mina La Escondida,2025-10-11 15:42:45,-24.227-69.551,,101 km,2.7 Ml
+2025-10-11 10:05:02411 km al NO de Base Frei,2025-10-11 13:05:02,-58.850-62.160,,10 km,4.1 Ml
+2025-10-11 09:59:41282 km al NO de Base Frei,2025-10-11 12:59:41,-60.240-62.340,,10 km,3.7 Ml
+2025-10-11 09:12:2936 km al O de OllagÃ¼e,2025-10-11 12:12:29,-21.214-68.600,,120 km,2.9 Ml
+2025-10-11 09:05:43327 km al NO de Base Frei,2025-10-11 12:05:43,-59.670-62.090,,10 km,3.0 Ml
+2025-10-11 07:57:19415 km al NE de Base Frei,2025-10-11 10:57:19,-58.690-56.390,,10 km,3.7 Ml
+2025-10-11 07:28:3973 km al O de Caleta Tortel,2025-10-11 10:28:39,-47.576-74.457,,32 km,2.8 Ml
+2025-10-11 07:20:2155 km al SO de Mina Collahuasi,2025-10-11 10:20:21,-21.182-69.023,,114 km,3.2 Ml
+2025-10-11 07:11:1232 km al O de San Pedro de Atacama,2025-10-11 10:11:12,-23.012-68.495,,94 km,2.6 Ml
+2025-10-11 06:41:26480 km al NO de Base Frei,2025-10-11 09:41:26,-58.030-61.230,,10 km,3.6 Ml
+2025-10-11 06:01:2718 km al O de Calama,2025-10-11 09:01:27,-22.514-69.094,,107 km,2.5 Ml
+2025-10-11 05:42:5525 km al NO de Ovalle,2025-10-11 08:42:55,-30.470-71.410,,83 km,2.9 Ml
+2025-10-11 05:32:0184 km al N de San Pedro de Atacama,2025-10-11 08:32:01,-22.175-68.074,,208 km,2.5 Ml
+2025-10-11 03:44:5257 km al SE de Socaire,2025-10-11 06:44:52,-24.053-67.643,,259 km,2.9 Ml
+2025-10-11 01:46:4945 km al NE de San Pedro de Atacama,2025-10-11 04:46:49,-22.641-67.877,,223 km,2.8 Ml
+2025-10-11 00:41:4913 km al N de Alto del Carmen,2025-10-11 03:41:49,-28.645-70.461,,97 km,2.8 Ml
+2025-10-11 00:33:3925 km al O de La Higuera,2025-10-11 03:33:39,-29.515-71.455,,72 km,2.6 Ml
+2025-10-10 23:11:03464 km al SE de Puerto Williams,2025-10-11 02:11:03,-58.181-62.847,,10 km,3.7 Ml
+2025-10-10 23:07:3157 km al E de Alto del Carmen,2025-10-11 02:07:31,-28.909-69.924,,128 km,3.1 Ml
+2025-10-10 22:20:5347 km al E de Paposo,2025-10-11 01:20:53,-25.010-70.001,,66 km,2.5 Ml
+2025-10-10 22:11:0764 km al NE de Mina Los Pelambres,2025-10-11 01:11:07,-31.519-70.016,,146 km,3.6 Ml
+2025-10-10 21:56:5956 km al SO de OllagÃ¼e,2025-10-11 00:56:59,-21.679-68.494,,126 km,2.7 Ml
+2025-10-10 21:46:13241 km al NO de Base Frei,2025-10-11 00:46:13,-60.400-61.510,,10 km,4.1 Ml
+2025-10-10 21:32:16310 km al NO de Base Frei,2025-10-11 00:32:16,-60.010-62.550,,10 km,4.3 Ml
+2025-10-10 20:54:38308 km al NO de Base Frei,2025-10-10 23:54:38,-59.930-62.270,,10 km,4.4 Ml
+2025-10-10 20:42:1661 km al N de Calama,2025-10-10 23:42:16,-21.932-68.795,,104 km,3.8 Ml
+2025-10-10 20:08:58280 km al NO de Base Frei,2025-10-10 23:08:58,-60.260-62.320,,10 km,4.2 Ml
+2025-10-10 20:00:33296 km al NO de Base Frei,2025-10-10 23:00:33,-59.760-61.170,,10 km,3.6 Ml
+2025-10-10 19:37:1128 km al NO de El Tabo,2025-10-10 22:37:11,-33.326-71.923,,28 km,2.8 Ml
+2025-10-10 19:09:43277 km al NO de Base Frei,2025-10-10 22:09:43,-60.110-61.810,,10 km,4.9 Ml
+2025-10-10 18:33:41362 km al NO de Base Frei,2025-10-10 21:33:41,-59.180-61.470,,10 km,5.5 Ml
+2025-10-10 18:28:34315 km al NO de Base Frei,2025-10-10 21:28:34,-60.020-62.730,,10 km,5.7 Ml
+2025-10-10 18:13:40285 km al NO de Base Frei,2025-10-10 21:13:40,-60.320-62.620,,10 km,4.5 Ml
+2025-10-10 17:59:57301 km al NO de Base Frei,2025-10-10 20:59:57,-60.000-62.260,,10 km,4.0 Ml
+2025-10-10 17:29:22265 km al NO de Base Frei,2025-10-10 20:29:22,-60.310-62.020,,10 km,7.8 Mww
+2025-10-10 15:53:5861 km al NE de Calama,2025-10-10 18:53:58,-22.060-68.537,,125 km,2.5 Ml
+2025-10-10 15:37:0157 km al SO de OllagÃ¼e,2025-10-10 18:37:01,-21.668-68.529,,128 km,2.6 Ml
+2025-10-10 15:07:1635 km al O de Carrizal Bajo,2025-10-10 18:07:16,-28.000-71.496,,36 km,2.9 Ml
+2025-10-10 13:15:3626 km al O de VichuquÃ©n,2025-10-10 16:15:36,-34.973-72.258,,21 km,2.9 Ml
+2025-10-10 11:18:3520 km al NO de Victoria,2025-10-10 14:18:35,-38.085-72.451,,42 km,2.8 Ml
+2025-10-10 10:59:2226 km al S de San Fernando,2025-10-10 13:59:22,-34.808-70.921,,93 km,2.6 Ml
+2025-10-10 10:49:4886 km al NO de Tongoy,2025-10-10 13:49:48,-29.776-72.189,,31 km,2.5 Ml
+2025-10-10 10:40:518 km al SO de Calama,2025-10-10 13:40:51,-22.511-68.996,,118 km,2.5 Ml
+2025-10-10 09:31:4327 km al NO de Tocopilla,2025-10-10 12:31:43,-21.901-70.358,,15 km,2.8 Ml
+2025-10-10 07:25:3995 km al N de San Pedro de Atacama,2025-10-10 10:25:39,-22.106-67.932,,216 km,2.6 Ml
+2025-10-10 07:07:4760 km al SE de Socaire,2025-10-10 10:07:47,-23.954-67.454,,246 km,3.1 Ml
+2025-10-10 06:37:0222 km al O de La Serena,2025-10-10 09:37:02,-29.895-71.475,,42 km,2.6 Ml
+2025-10-10 04:40:5480 km al S de Socaire,2025-10-10 07:40:54,-24.272-67.652,,205 km,3.3 Ml
+2025-10-10 04:35:1184 km al NE de Socaire,2025-10-10 07:35:11,-23.276-67.138,,244 km,2.6 Ml
+2025-10-10 03:14:2223 km al NO de Navidad,2025-10-10 06:14:22,-33.800-72.005,,22 km,2.6 Ml
+2025-10-10 02:25:5136 km al N de Punta de Choros,2025-10-10 05:25:51,-28.947-71.344,,53 km,2.7 Ml
+2025-10-10 00:14:0570 km al SE de Socaire,2025-10-10 03:14:05,-24.031-67.404,,224 km,2.6 Ml
+2025-10-09 19:09:2929 km al S de Mina Collahuasi,2025-10-09 22:09:29,-21.085-68.660,,109 km,2.6 Ml
+2025-10-09 18:54:1927 km al NO de ValparaÃ­so,2025-10-09 21:54:19,-32.863-71.799,,40 km,3.3 Ml
+2025-10-09 17:50:0460 km al SO de Arica,2025-10-09 20:50:04,-18.741-70.817,,26 km,3.2 Ml
+2025-10-09 17:48:3032 km al SO de OllagÃ¼e,2025-10-09 20:48:30,-21.477-68.410,,133 km,3.3 Ml
+2025-10-09 17:27:2839 km al SE de Pica,2025-10-09 20:27:28,-20.809-69.166,,106 km,2.6 Ml
+2025-10-09 17:08:3255 km al N de Mina La Escondida,2025-10-09 20:08:32,-23.776-69.080,,105 km,3.0 Ml
+2025-10-09 15:49:53102 km al NE de Socaire,2025-10-09 18:49:53,-23.059-67.073,,246 km,2.7 Ml
+2025-10-09 14:33:3123 km al SE de CamiÃ±a,2025-10-09 17:33:31,-19.489-69.310,,100 km,3.1 Ml
+2025-10-09 13:46:2584 km al SE de Socaire,2025-10-09 16:46:25,-24.152-67.333,,234 km,2.9 Ml
+2025-10-09 13:27:2527 km al SE de CombarbalÃ¡,2025-10-09 16:27:25,-31.318-70.776,,99 km,3.0 Ml
+2025-10-09 09:23:4740 km al NO de Cobquecura,2025-10-09 12:23:47,-35.929-73.156,,31 km,2.5 Ml
+2025-10-09 09:08:5128 km al NE de MarÃ­a Elena,2025-10-09 12:08:51,-22.119-69.538,,74 km,2.7 Ml
+2025-10-09 03:17:5929 km al S de Punitaqui,2025-10-09 06:17:59,-31.080-71.345,,70 km,2.5 Ml
+2025-10-09 02:53:0344 km al S de Socaire,2025-10-09 05:53:03,-23.980-67.829,,241 km,3.0 Ml
+2025-10-08 19:44:4941 km al N de Calama,2025-10-08 22:44:49,-22.110-68.828,,117 km,2.5 Ml
+2025-10-08 18:31:2216 km al E de Pichidangui,2025-10-08 21:31:22,-32.102-71.369,,40 km,2.7 Ml
+2025-10-08 17:42:0374 km al S de Socaire,2025-10-08 20:42:03,-24.254-67.861,,222 km,2.9 Ml
+2025-10-08 16:43:5932 km al E de Pica,2025-10-08 19:43:59,-20.415-69.034,,111 km,3.3 Ml
+2025-10-08 16:43:3851 km al SO de Mina Collahuasi,2025-10-08 19:43:38,-21.232-68.879,,115 km,2.7 Ml
+2025-10-08 14:22:5165 km al SE de Socaire,2025-10-08 17:22:51,-24.133-67.647,,206 km,4.3 Ml
+2025-10-08 11:34:5235 km al NO de Cuya,2025-10-08 14:34:52,-18.892-70.344,,17 km,2.6 Ml
+2025-10-08 11:17:1649 km al S de Calama,2025-10-08 14:17:16,-22.898-68.820,,85 km,3.2 Ml
+2025-10-08 11:12:5369 km al NE de Paihuano,2025-10-08 14:12:53,-29.648-69.952,,98 km,2.6 Ml
+2025-10-08 09:45:2371 km al SO de OllagÃ¼e,2025-10-08 12:45:23,-21.815-68.503,,118 km,2.7 Ml
+2025-10-08 09:07:3235 km al O de Mina Collahuasi,2025-10-08 12:07:32,-20.951-68.969,,103 km,2.6 Ml
+2025-10-08 01:33:1030 km al S de Fresia,2025-10-08 04:33:10,-41.419-73.367,,47 km,3.7 Ml
+2025-10-07 22:46:1331 km al O de Mina Collahuasi,2025-10-08 01:46:13,-20.905-68.940,,102 km,2.9 Ml
+2025-10-07 22:08:2327 km al SO de Navidad,2025-10-08 01:08:23,-34.124-72.044,,38 km,2.7 Ml
+2025-10-07 21:26:3123 km al NO de Quillagua,2025-10-08 00:26:31,-21.541-69.719,,15 km,2.8 Ml
