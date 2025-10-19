@@ -16,7 +16,14 @@ print("Latitud mínima:", df['latitud'].min())
 bins = [-np.inf, 3.5, 5.0, np.inf]
 labels = ['Leve', 'Moderado', 'Fuerte']
 df['categoria'] = pd.cut(df['magnitud'], bins=bins, labels=labels)
+# Conteos por rango de profundidad
+bins_profundidad = [0, 50, 100, 150, 200, np.inf]
+labels_profundidad = ['0-50', '51-100', '101-150', '151-200', '200+']
+df['rango_profundidad'] = pd.cut(df['profundidad'], bins=bins_profundidad, labels=labels_profundidad)
 
+conteos_profundidad = df['rango_profundidad'].value_counts().reindex(labels_profundidad, fill_value=0)
+print("Conteos por rango de profundidad:")
+print(conteos_profundidad.to_string())
 # Conteos totales por categoría
 conteos_categoria = df['categoria'].value_counts().reindex(labels, fill_value=0)
 print("Conteos totales por categoría:")

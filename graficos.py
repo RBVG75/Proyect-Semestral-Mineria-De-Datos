@@ -11,6 +11,7 @@ plt.rcParams['font.size'] = 10
 # Leer datos
 df = pd.read_csv('bdd.csv')
 
+# 1. Gráfico de barras de conteo por categoría
 plt.figure(figsize=(8, 6))
 bins = [-np.inf, 3.5, 5.0, np.inf]
 labels = ['Leve', 'Moderado', 'Fuerte']
